@@ -1,488 +1,488 @@
-235919008 -> 65275009 | Standardized Lift: 1.0000 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.002300
-428251008 -> 74400008 | Standardized Lift: 1.0000 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.044421
-128613002 -> 703151001 | Standardized Lift: 1.0000 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.035521
-22298006 -> 399211009 | Standardized Lift: 1.0000 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.020859
-410429000 -> 429007001 | Standardized Lift: 1.0000 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.035892
-236077008 -> 6072007 | Standardized Lift: 1.0000 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.003805
-254637007 -> 424132000 | Standardized Lift: 0.9997 | Lift: 90.7833 | Confidence: 0.9997 | Interest: 0.010890
-162573006,254637007 -> 424132000 | Standardized Lift: 0.9997 | Lift: 90.7833 | Confidence: 0.9997 | Interest: 0.010890
-254632001 -> 67811000119102 | Standardized Lift: 0.9996 | Lift: 514.4791 | Confidence: 0.9996 | Interest: 0.001939
-162573006,254632001 -> 67811000119102 | Standardized Lift: 0.9996 | Lift: 514.4791 | Confidence: 0.9996 | Interest: 0.001939
-237602007 -> 302870006 | Standardized Lift: 0.9775 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.060049
-302870006 -> 44054006 | Standardized Lift: 0.9724 | Lift: 14.8394 | Confidence: 0.9910 | Interest: 0.060673
-431856006 -> 90781000119102 | Standardized Lift: 0.9696 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004055
-127013003,431856006 -> 90781000119102 | Standardized Lift: 0.9696 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004055
-431856006,44054006 -> 90781000119102 | Standardized Lift: 0.9696 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004055
-302870006,431856006 -> 90781000119102 | Standardized Lift: 0.9694 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004054
-237602007,431856006 -> 90781000119102 | Standardized Lift: 0.9688 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004052
-237602007 -> 44054006 | Standardized Lift: 0.9571 | Lift: 14.9347 | Confidence: 0.9974 | Interest: 0.059807
-237602007,302870006 -> 44054006 | Standardized Lift: 0.9571 | Lift: 14.9347 | Confidence: 0.9974 | Interest: 0.059807
-127013003 -> 431855005 | Standardized Lift: 0.9320 | Lift: 33.4473 | Confidence: 0.9339 | Interest: 0.027086
-127013003,237602007 -> 431855005 | Standardized Lift: 0.9320 | Lift: 33.4472 | Confidence: 0.9339 | Interest: 0.027050
-127013003,302870006 -> 431855005 | Standardized Lift: 0.9320 | Lift: 33.4470 | Confidence: 0.9339 | Interest: 0.027071
-126906006 -> 92691004 | Standardized Lift: 0.9081 | Lift: 39.9799 | Confidence: 0.9102 | Interest: 0.022196
-162573006 -> 254637007 | Standardized Lift: 0.8474 | Lift: 77.0845 | Confidence: 0.8491 | Interest: 0.010872
-162573006 -> 424132000 | Standardized Lift: 0.8472 | Lift: 77.0845 | Confidence: 0.8488 | Interest: 0.010869
-127013003,271737000 -> 431855005 | Standardized Lift: 0.7923 | Lift: 33.5107 | Confidence: 0.9357 | Interest: 0.021597
-237602007,271737000 -> 302870006 | Standardized Lift: 0.7783 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.048445
-271737000,302870006 -> 44054006 | Standardized Lift: 0.7739 | Lift: 14.8348 | Confidence: 0.9907 | Interest: 0.048946
-237602007,271737000 -> 44054006 | Standardized Lift: 0.7620 | Lift: 14.9348 | Confidence: 0.9974 | Interest: 0.048251
-124171000119105 -> 82423001 | Standardized Lift: 0.7605 | Lift: 16.2529 | Confidence: 0.7719 | Interest: 0.034423
-124171000119105 -> 196416002 | Standardized Lift: 0.7597 | Lift: 16.2269 | Confidence: 0.7725 | Interest: 0.034446
-196416002 -> 82423001 | Standardized Lift: 0.7591 | Lift: 16.2257 | Confidence: 0.7706 | Interest: 0.034421
-271737000,431856006 -> 90781000119102 | Standardized Lift: 0.7577 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.003172
-15777000 -> 271737000 | Standardized Lift: 0.7316 | Lift: 2.6585 | Confidence: 0.8162 | Interest: 0.155845
-124171000119105,196416002 -> 82423001 | Standardized Lift: 0.7285 | Lift: 20.1163 | Confidence: 0.9553 | Interest: 0.033326
-254632001,271737000 -> 67811000119102 | Standardized Lift: 0.7213 | Lift: 514.3909 | Confidence: 0.9994 | Interest: 0.001399
-254637007,271737000 -> 424132000 | Standardized Lift: 0.7165 | Lift: 90.7821 | Confidence: 0.9997 | Interest: 0.007828
-162573006,271737000 -> 424132000 | Standardized Lift: 0.7161 | Lift: 77.0458 | Confidence: 0.8484 | Interest: 0.007812
-236077008,271737000 -> 6072007 | Standardized Lift: 0.7147 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.002723
-15777000,237602007 -> 80394007 | Standardized Lift: 0.7103 | Lift: 23.6325 | Confidence: 0.7192 | Interest: 0.027261
-15777000,44054006 -> 80394007 | Standardized Lift: 0.6998 | Lift: 23.2964 | Confidence: 0.7089 | Interest: 0.027244
-15777000,302870006 -> 80394007 | Standardized Lift: 0.6980 | Lift: 23.2399 | Confidence: 0.7072 | Interest: 0.027241
-126906006,271737000 -> 92691004 | Standardized Lift: 0.6906 | Lift: 40.0300 | Confidence: 0.9113 | Interest: 0.015448
-55680006 -> 82423001 | Standardized Lift: 0.6722 | Lift: 14.9045 | Confidence: 0.7078 | Interest: 0.030451
-235919008,444814009 -> 65275009 | Standardized Lift: 0.6719 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001546
-124171000119105 -> 55680006 | Standardized Lift: 0.6714 | Lift: 14.8884 | Confidence: 0.6866 | Interest: 0.030436
-196416002 -> 55680006 | Standardized Lift: 0.6706 | Lift: 14.8722 | Confidence: 0.6858 | Interest: 0.030453
-254632001,444814009 -> 67811000119102 | Standardized Lift: 0.6683 | Lift: 514.3659 | Confidence: 0.9993 | Interest: 0.001297
-236077008,444814009 -> 6072007 | Standardized Lift: 0.6642 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.002531
-126906006,444814009 -> 92691004 | Standardized Lift: 0.6569 | Lift: 39.9515 | Confidence: 0.9095 | Interest: 0.014707
-428251008,444814009 -> 74400008 | Standardized Lift: 0.6512 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.029406
-124171000119105,196416002 -> 55680006 | Standardized Lift: 0.6455 | Lift: 17.9391 | Confidence: 0.8273 | Interest: 0.028675
-431856006,444814009 -> 90781000119102 | Standardized Lift: 0.6448 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.002700
-196416002,55680006 -> 82423001 | Standardized Lift: 0.6274 | Lift: 19.5898 | Confidence: 0.9303 | Interest: 0.028823
-124171000119105,55680006 -> 82423001 | Standardized Lift: 0.6273 | Lift: 19.5989 | Confidence: 0.9308 | Interest: 0.028819
-126906006,15777000 -> 92691004 | Standardized Lift: 0.5886 | Lift: 39.9495 | Confidence: 0.9095 | Interest: 0.013201
-128613002,444814009 -> 703151001 | Standardized Lift: 0.5884 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.021224
-15777000,237602007 -> 302870006 | Standardized Lift: 0.5866 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.036983
-15777000,302870006 -> 44054006 | Standardized Lift: 0.5768 | Lift: 14.7545 | Confidence: 0.9853 | Interest: 0.036972
-15777000,237602007 -> 44054006 | Standardized Lift: 0.5733 | Lift: 14.9102 | Confidence: 0.9957 | Interest: 0.036770
-1551000119108 -> 422034002 | Standardized Lift: 0.5678 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.009933
-1551000119108,302870006 -> 422034002 | Standardized Lift: 0.5678 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.009933
-1551000119108,237602007 -> 422034002 | Standardized Lift: 0.5668 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.009914
-15777000,254632001 -> 67811000119102 | Standardized Lift: 0.5487 | Lift: 514.2914 | Confidence: 0.9992 | Interest: 0.001065
-15777000,254637007 -> 424132000 | Standardized Lift: 0.5425 | Lift: 90.7726 | Confidence: 0.9996 | Interest: 0.005938
-15777000,162573006 -> 254637007 | Standardized Lift: 0.5420 | Lift: 76.9870 | Confidence: 0.8480 | Interest: 0.005928
-15777000,162573006 -> 424132000 | Standardized Lift: 0.5420 | Lift: 76.9779 | Confidence: 0.8477 | Interest: 0.005926
-15777000,431856006 -> 90781000119102 | Standardized Lift: 0.5396 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.002261
-127013003,15777000 -> 431855005 | Standardized Lift: 0.5389 | Lift: 33.2824 | Confidence: 0.9293 | Interest: 0.014799
-431856006,59621000 -> 90781000119102 | Standardized Lift: 0.5332 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.002234
-162864005,254632001 -> 67811000119102 | Standardized Lift: 0.5260 | Lift: 514.7079 | Confidence: 1.0000 | Interest: 0.001021
-444814009,703151001 -> 84757009 | Standardized Lift: 0.5163 | Lift: 27.2210 | Confidence: 0.5256 | Interest: 0.011157
-128613002,444814009 -> 84757009 | Standardized Lift: 0.5163 | Lift: 27.2210 | Confidence: 0.5256 | Interest: 0.011157
-703151001 -> 84757009 | Standardized Lift: 0.5142 | Lift: 27.1140 | Confidence: 0.5236 | Interest: 0.018597
-128613002 -> 84757009 | Standardized Lift: 0.5142 | Lift: 27.1140 | Confidence: 0.5236 | Interest: 0.018597
-128613002,703151001 -> 84757009 | Standardized Lift: 0.5142 | Lift: 27.1140 | Confidence: 0.5236 | Interest: 0.018597
-431855005,431856006 -> 90781000119102 | Standardized Lift: 0.5122 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.002146
-124171000119105,444814009 -> 82423001 | Standardized Lift: 0.4982 | Lift: 16.2760 | Confidence: 0.7730 | Interest: 0.022911
-196416002,444814009 -> 82423001 | Standardized Lift: 0.4976 | Lift: 16.2190 | Confidence: 0.7702 | Interest: 0.022882
-162864005,236077008 -> 6072007 | Standardized Lift: 0.4918 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001875
-162864005,235919008 -> 65275009 | Standardized Lift: 0.4908 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001130
-15777000,235919008 -> 65275009 | Standardized Lift: 0.4889 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001126
-236077008,271737000 -> 94260004 | Standardized Lift: 0.4874 | Lift: 275.8674 | Confidence: 0.4883 | Interest: 0.001330
-271737000,6072007 -> 94260004 | Standardized Lift: 0.4874 | Lift: 275.8674 | Confidence: 0.4883 | Interest: 0.001330
-162864005,254637007 -> 424132000 | Standardized Lift: 0.4845 | Lift: 90.7680 | Confidence: 0.9995 | Interest: 0.005306
-162573006,162864005 -> 254637007 | Standardized Lift: 0.4840 | Lift: 76.2128 | Confidence: 0.8395 | Interest: 0.005298
-162573006,162864005 -> 424132000 | Standardized Lift: 0.4840 | Lift: 76.2000 | Confidence: 0.8391 | Interest: 0.005295
-1551000119108,271737000 -> 422034002 | Standardized Lift: 0.4705 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.008245
-195662009,236077008 -> 6072007 | Standardized Lift: 0.4651 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001774
-195662009,254632001 -> 67811000119102 | Standardized Lift: 0.4633 | Lift: 514.7079 | Confidence: 1.0000 | Interest: 0.000899
-236077008 -> 94260004 | Standardized Lift: 0.4624 | Lift: 261.7770 | Confidence: 0.4634 | Interest: 0.001763
-6072007 -> 94260004 | Standardized Lift: 0.4624 | Lift: 261.7770 | Confidence: 0.4634 | Interest: 0.001763
-236077008,6072007 -> 94260004 | Standardized Lift: 0.4624 | Lift: 261.7770 | Confidence: 0.4634 | Interest: 0.001763
-195662009,235919008 -> 65275009 | Standardized Lift: 0.4612 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001062
-236077008,444814009 -> 94260004 | Standardized Lift: 0.4605 | Lift: 260.6712 | Confidence: 0.4614 | Interest: 0.001168
-444814009,6072007 -> 94260004 | Standardized Lift: 0.4605 | Lift: 260.6712 | Confidence: 0.4614 | Interest: 0.001168
-237602007,271737000 -> 80394007 | Standardized Lift: 0.4585 | Lift: 15.6070 | Confidence: 0.4749 | Interest: 0.023047
-237602007,44054006 -> 80394007 | Standardized Lift: 0.4583 | Lift: 15.6008 | Confidence: 0.4747 | Interest: 0.028480
-237602007,444814009 -> 80394007 | Standardized Lift: 0.4579 | Lift: 15.5884 | Confidence: 0.4744 | Interest: 0.019046
-237602007 -> 80394007 | Standardized Lift: 0.4570 | Lift: 15.5599 | Confidence: 0.4735 | Interest: 0.028475
-237602007,302870006 -> 80394007 | Standardized Lift: 0.4570 | Lift: 15.5599 | Confidence: 0.4735 | Interest: 0.028475
-15777000,236077008 -> 6072007 | Standardized Lift: 0.4565 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001741
-127013003,195662009 -> 431855005 | Standardized Lift: 0.4558 | Lift: 33.4725 | Confidence: 0.9346 | Interest: 0.012550
-126906006,195662009 -> 92691004 | Standardized Lift: 0.4545 | Lift: 40.0471 | Confidence: 0.9117 | Interest: 0.010227
-195662009,254637007 -> 424132000 | Standardized Lift: 0.4541 | Lift: 90.7806 | Confidence: 0.9997 | Interest: 0.004976
-162573006,195662009 -> 254637007 | Standardized Lift: 0.4537 | Lift: 76.9202 | Confidence: 0.8473 | Interest: 0.004967
-162573006,195662009 -> 424132000 | Standardized Lift: 0.4536 | Lift: 76.9180 | Confidence: 0.8470 | Interest: 0.004966
-126906006,162864005 -> 92691004 | Standardized Lift: 0.4534 | Lift: 39.9068 | Confidence: 0.9085 | Interest: 0.010203
-196416002,444814009 -> 55680006 | Standardized Lift: 0.4533 | Lift: 14.8660 | Confidence: 0.6855 | Interest: 0.020244
-124171000119105,444814009 -> 55680006 | Standardized Lift: 0.4527 | Lift: 14.8828 | Confidence: 0.6863 | Interest: 0.020218
-195662009,410429000 -> 429007001 | Standardized Lift: 0.4519 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.016558
-302870006,44054006 -> 80394007 | Standardized Lift: 0.4510 | Lift: 15.3710 | Confidence: 0.4678 | Interest: 0.028451
-195662009,22298006 -> 399211009 | Standardized Lift: 0.4507 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.009512
-127013003 -> 237602007 | Standardized Lift: 0.4481 | Lift: 15.5388 | Confidence: 0.9986 | Interest: 0.027936
-271737000,302870006 -> 80394007 | Standardized Lift: 0.4480 | Lift: 15.2749 | Confidence: 0.4648 | Interest: 0.023013
-302870006,444814009 -> 80394007 | Standardized Lift: 0.4478 | Lift: 15.2674 | Confidence: 0.4646 | Interest: 0.019018
-302870006 -> 80394007 | Standardized Lift: 0.4467 | Lift: 15.2329 | Confidence: 0.4635 | Interest: 0.028433
-195662009,428251008 -> 74400008 | Standardized Lift: 0.4441 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.020254
-271737000,44054006 -> 80394007 | Standardized Lift: 0.4437 | Lift: 15.1366 | Confidence: 0.4606 | Interest: 0.022998
-195662009,237602007 -> 80394007 | Standardized Lift: 0.4418 | Lift: 15.5307 | Confidence: 0.4726 | Interest: 0.013047
-195662009,302870006 -> 80394007 | Standardized Lift: 0.4414 | Lift: 15.1987 | Confidence: 0.4625 | Interest: 0.013027
-44054006,444814009 -> 80394007 | Standardized Lift: 0.4401 | Lift: 15.0215 | Confidence: 0.4571 | Interest: 0.018996
-444814009,55680006 -> 82423001 | Standardized Lift: 0.4399 | Lift: 14.9054 | Confidence: 0.7079 | Interest: 0.020249
-44054006 -> 80394007 | Standardized Lift: 0.4386 | Lift: 14.9740 | Confidence: 0.4557 | Interest: 0.028399
-127013003 -> 302870006 | Standardized Lift: 0.4384 | Lift: 15.2245 | Confidence: 0.9995 | Interest: 0.027919
-127013003,237602007 -> 302870006 | Standardized Lift: 0.4380 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.027897
-195662009,431856006 -> 90781000119102 | Standardized Lift: 0.4380 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001836
-195662009,44054006 -> 80394007 | Standardized Lift: 0.4376 | Lift: 14.9435 | Confidence: 0.4547 | Interest: 0.013011
-237602007,59621000 -> 80394007 | Standardized Lift: 0.4375 | Lift: 14.9394 | Confidence: 0.4546 | Interest: 0.016424
-235919008,271737000 -> 65275009 | Standardized Lift: 0.4342 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001000
-195662009,237602007 -> 302870006 | Standardized Lift: 0.4327 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.027569
-302870006,59621000 -> 80394007 | Standardized Lift: 0.4308 | Lift: 14.7252 | Confidence: 0.4481 | Interest: 0.016407
-127013003 -> 44054006 | Standardized Lift: 0.4307 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.027901
-127013003,302870006 -> 44054006 | Standardized Lift: 0.4304 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.027886
-195662009,302870006 -> 44054006 | Standardized Lift: 0.4303 | Lift: 14.8423 | Confidence: 0.9912 | Interest: 0.027871
-127013003,237602007 -> 44054006 | Standardized Lift: 0.4301 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.027863
-44054006,59621000 -> 80394007 | Standardized Lift: 0.4246 | Lift: 14.5287 | Confidence: 0.4421 | Interest: 0.016391
-195662009,237602007 -> 44054006 | Standardized Lift: 0.4236 | Lift: 14.9332 | Confidence: 0.9973 | Interest: 0.027455
-195662009,237602007 -> 431855005 | Standardized Lift: 0.4216 | Lift: 15.6787 | Confidence: 0.4378 | Interest: 0.012093
-237602007 -> 431855005 | Standardized Lift: 0.4176 | Lift: 15.5387 | Confidence: 0.4339 | Interest: 0.026089
-237602007,302870006 -> 431855005 | Standardized Lift: 0.4176 | Lift: 15.5387 | Confidence: 0.4339 | Interest: 0.026089
-1551000119108,368581000119106 -> 97331000119101 | Standardized Lift: 0.4135 | Lift: 112.1465 | Confidence: 0.4157 | Interest: 0.002333
-237602007,271737000 -> 431855005 | Standardized Lift: 0.4125 | Lift: 15.3616 | Confidence: 0.4289 | Interest: 0.020791
-195662009,302870006 -> 431855005 | Standardized Lift: 0.4123 | Lift: 15.3559 | Confidence: 0.4288 | Interest: 0.012085
-128613002,195662009 -> 703151001 | Standardized Lift: 0.4110 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.014923
-128613002,195662009 -> 84757009 | Standardized Lift: 0.4102 | Lift: 27.0666 | Confidence: 0.5226 | Interest: 0.007799
-195662009,703151001 -> 84757009 | Standardized Lift: 0.4102 | Lift: 27.0666 | Confidence: 0.5226 | Interest: 0.007799
-302870006 -> 431855005 | Standardized Lift: 0.4086 | Lift: 15.2244 | Confidence: 0.4251 | Interest: 0.026073
-22298006,271737000 -> 399211009 | Standardized Lift: 0.4056 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.008569
-162864005,410429000 -> 429007001 | Standardized Lift: 0.4044 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.014844
-271737000,302870006 -> 431855005 | Standardized Lift: 0.4034 | Lift: 15.0458 | Confidence: 0.4201 | Interest: 0.020776
-431855005 -> 44054006 | Standardized Lift: 0.4014 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.026057
-127013003,431855005 -> 44054006 | Standardized Lift: 0.4014 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.026057
-162864005,428251008 -> 74400008 | Standardized Lift: 0.4013 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.018336
-302870006,431855005 -> 44054006 | Standardized Lift: 0.4011 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.026042
-237602007,431855005 -> 44054006 | Standardized Lift: 0.4008 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.026021
-15777000,410429000 -> 429007001 | Standardized Lift: 0.3985 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.014632
-10509002,236077008 -> 6072007 | Standardized Lift: 0.3982 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001519
-10509002,254637007 -> 424132000 | Standardized Lift: 0.3973 | Lift: 90.7940 | Confidence: 0.9998 | Interest: 0.004356
-10509002,162573006 -> 424132000 | Standardized Lift: 0.3968 | Lift: 76.8651 | Confidence: 0.8464 | Interest: 0.004347
-10509002,162573006 -> 254637007 | Standardized Lift: 0.3968 | Lift: 76.8561 | Confidence: 0.8466 | Interest: 0.004348
-10509002,22298006 -> 399211009 | Standardized Lift: 0.3953 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.008353
-271737000,410429000 -> 429007001 | Standardized Lift: 0.3941 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.014471
-10509002,410429000 -> 429007001 | Standardized Lift: 0.3930 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.014432
-15777000,428251008 -> 74400008 | Standardized Lift: 0.3929 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.017962
-10509002,127013003 -> 431855005 | Standardized Lift: 0.3928 | Lift: 33.4576 | Confidence: 0.9342 | Interest: 0.010835
-10509002,235919008 -> 65275009 | Standardized Lift: 0.3926 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.000904
-10509002,126906006 -> 92691004 | Standardized Lift: 0.3926 | Lift: 40.0626 | Confidence: 0.9121 | Interest: 0.008848
-271737000,428251008 -> 74400008 | Standardized Lift: 0.3916 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.017902
-1551000119108,15777000 -> 422034002 | Standardized Lift: 0.3905 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.006853
-10509002,428251008 -> 74400008 | Standardized Lift: 0.3901 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.017833
-10509002,237602007 -> 80394007 | Standardized Lift: 0.3860 | Lift: 15.6401 | Confidence: 0.4759 | Interest: 0.011445
-10509002,302870006 -> 80394007 | Standardized Lift: 0.3857 | Lift: 15.3202 | Confidence: 0.4662 | Interest: 0.011429
-10509002,44054006 -> 80394007 | Standardized Lift: 0.3854 | Lift: 15.0764 | Confidence: 0.4588 | Interest: 0.011416
-10509002,237602007 -> 431855005 | Standardized Lift: 0.3838 | Lift: 15.5537 | Confidence: 0.4343 | Interest: 0.010440
-10509002,302870006 -> 431855005 | Standardized Lift: 0.3836 | Lift: 15.2426 | Confidence: 0.4256 | Interest: 0.010430
-237602007,368581000119106 -> 80394007 | Standardized Lift: 0.3827 | Lift: 17.2637 | Confidence: 0.5253 | Interest: 0.011377
-302870006,368581000119106 -> 80394007 | Standardized Lift: 0.3826 | Lift: 17.1920 | Confidence: 0.5232 | Interest: 0.011374
-368581000119106 -> 80394007 | Standardized Lift: 0.3826 | Lift: 17.1554 | Confidence: 0.5221 | Interest: 0.011373
-368581000119106,44054006 -> 80394007 | Standardized Lift: 0.3826 | Lift: 17.1554 | Confidence: 0.5221 | Interest: 0.011373
-10509002,431856006 -> 90781000119102 | Standardized Lift: 0.3812 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001598
-1501000119109 -> 97331000119101 | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
-1501000119109,1551000119108 -> 97331000119101 | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
-1501000119109,44054006 -> 97331000119101 | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
-1501000119109,237602007 -> 97331000119101 | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
-1501000119109,422034002 -> 97331000119101 | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
-1501000119109,302870006 -> 97331000119101 | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
-431856006,80394007 -> 90781000119102 | Standardized Lift: 0.3786 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001587
-19169002,235919008 -> 65275009 | Standardized Lift: 0.3754 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.000864
-10509002,237602007 -> 302870006 | Standardized Lift: 0.3753 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.024004
-162864005,302870006 -> 80394007 | Standardized Lift: 0.3746 | Lift: 22.7593 | Confidence: 0.6926 | Interest: 0.011205
-162864005,237602007 -> 80394007 | Standardized Lift: 0.3746 | Lift: 22.7593 | Confidence: 0.6926 | Interest: 0.011205
-162864005,44054006 -> 80394007 | Standardized Lift: 0.3744 | Lift: 22.4205 | Confidence: 0.6823 | Interest: 0.011197
-10509002,302870006 -> 44054006 | Standardized Lift: 0.3727 | Lift: 14.8378 | Confidence: 0.9909 | Interest: 0.024237
-15777000,237602007 -> 368581000119106 | Standardized Lift: 0.3716 | Lift: 16.6902 | Confidence: 0.3861 | Interest: 0.014367
-15777000,368581000119106 -> 80394007 | Standardized Lift: 0.3715 | Lift: 24.8558 | Confidence: 0.7564 | Interest: 0.011131
-1551000119108,80394007 -> 97331000119101 | Standardized Lift: 0.3714 | Lift: 100.8329 | Confidence: 0.3738 | Interest: 0.002055
-1551000119108,15777000 -> 97331000119101 | Standardized Lift: 0.3704 | Lift: 100.5578 | Confidence: 0.3728 | Interest: 0.002574
-15777000,22298006 -> 399211009 | Standardized Lift: 0.3679 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.007779
-15777000,237602007 -> 431855005 | Standardized Lift: 0.3675 | Lift: 13.7940 | Confidence: 0.3851 | Interest: 0.014140
-10509002,237602007 -> 44054006 | Standardized Lift: 0.3675 | Lift: 14.9367 | Confidence: 0.9975 | Interest: 0.023911
-1551000119108,444814009 -> 97331000119101 | Standardized Lift: 0.3664 | Lift: 99.4753 | Confidence: 0.3687 | Interest: 0.002476
-1551000119108,59621000 -> 97331000119101 | Standardized Lift: 0.3662 | Lift: 99.4363 | Confidence: 0.3686 | Interest: 0.002247
-15777000,302870006 -> 368581000119106 | Standardized Lift: 0.3658 | Lift: 16.4464 | Confidence: 0.3805 | Interest: 0.014383
-1551000119108,195662009 -> 97331000119101 | Standardized Lift: 0.3656 | Lift: 99.2680 | Confidence: 0.3680 | Interest: 0.001668
-1551000119108,237602007 -> 97331000119101 | Standardized Lift: 0.3648 | Lift: 99.0592 | Confidence: 0.3672 | Interest: 0.003669
-271737000,368581000119106 -> 422034002 | Standardized Lift: 0.3644 | Lift: 21.2585 | Confidence: 0.3757 | Interest: 0.006848
-237602007,368581000119106 -> 422034002 | Standardized Lift: 0.3644 | Lift: 21.2545 | Confidence: 0.3756 | Interest: 0.008228
-1551000119108 -> 97331000119101 | Standardized Lift: 0.3642 | Lift: 98.8960 | Confidence: 0.3666 | Interest: 0.003669
-1551000119108,44054006 -> 97331000119101 | Standardized Lift: 0.3642 | Lift: 98.8960 | Confidence: 0.3666 | Interest: 0.003669
-1551000119108,422034002 -> 97331000119101 | Standardized Lift: 0.3642 | Lift: 98.8960 | Confidence: 0.3666 | Interest: 0.003669
-1551000119108,302870006 -> 97331000119101 | Standardized Lift: 0.3642 | Lift: 98.8960 | Confidence: 0.3666 | Interest: 0.003669
-302870006,368581000119106 -> 422034002 | Standardized Lift: 0.3631 | Lift: 21.1832 | Confidence: 0.3743 | Interest: 0.008233
-126906006,59621000 -> 92691004 | Standardized Lift: 0.3627 | Lift: 40.1060 | Confidence: 0.9130 | Interest: 0.008181
-368581000119106 -> 422034002 | Standardized Lift: 0.3623 | Lift: 21.1402 | Confidence: 0.3736 | Interest: 0.008233
-10509002,128613002 -> 703151001 | Standardized Lift: 0.3614 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.013147
-15777000,302870006 -> 431855005 | Standardized Lift: 0.3610 | Lift: 13.5679 | Confidence: 0.3788 | Interest: 0.014124
-10509002,703151001 -> 84757009 | Standardized Lift: 0.3603 | Lift: 27.0315 | Confidence: 0.5220 | Interest: 0.006862
-10509002,128613002 -> 84757009 | Standardized Lift: 0.3603 | Lift: 27.0315 | Confidence: 0.5220 | Interest: 0.006862
-1551000119108,271737000 -> 97331000119101 | Standardized Lift: 0.3596 | Lift: 97.6510 | Confidence: 0.3620 | Interest: 0.003007
-126906006,40055000 -> 92691004 | Standardized Lift: 0.3566 | Lift: 40.3238 | Confidence: 0.9180 | Interest: 0.008045
-162864005,22298006 -> 399211009 | Standardized Lift: 0.3551 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.007509
-10509002,1551000119108 -> 97331000119101 | Standardized Lift: 0.3543 | Lift: 96.2330 | Confidence: 0.3567 | Interest: 0.001404
-127013003,237602007 -> 80394007 | Standardized Lift: 0.3530 | Lift: 12.4707 | Confidence: 0.3795 | Interest: 0.010422
-127013003,302870006 -> 80394007 | Standardized Lift: 0.3530 | Lift: 12.4606 | Confidence: 0.3792 | Interest: 0.010421
-127013003 -> 80394007 | Standardized Lift: 0.3530 | Lift: 12.4537 | Confidence: 0.3790 | Interest: 0.010421
-127013003,44054006 -> 80394007 | Standardized Lift: 0.3530 | Lift: 12.4537 | Confidence: 0.3790 | Interest: 0.010421
-237602007,271737000 -> 368581000119106 | Standardized Lift: 0.3521 | Lift: 15.8665 | Confidence: 0.3671 | Interest: 0.017832
-127013003,271737000 -> 302870006 | Standardized Lift: 0.3468 | Lift: 15.2290 | Confidence: 0.9997 | Interest: 0.022224
-271737000,302870006 -> 368581000119106 | Standardized Lift: 0.3455 | Lift: 15.5874 | Confidence: 0.3606 | Interest: 0.017877
-236077008,59621000 -> 6072007 | Standardized Lift: 0.3449 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001316
-10509002,237602007 -> 368581000119106 | Standardized Lift: 0.3442 | Lift: 15.5341 | Confidence: 0.3594 | Interest: 0.008638
-237602007 -> 368581000119106 | Standardized Lift: 0.3425 | Lift: 15.4623 | Confidence: 0.3577 | Interest: 0.021502
-237602007,302870006 -> 368581000119106 | Standardized Lift: 0.3425 | Lift: 15.4623 | Confidence: 0.3577 | Interest: 0.021502
-195662009,237602007 -> 368581000119106 | Standardized Lift: 0.3407 | Lift: 15.3848 | Confidence: 0.3559 | Interest: 0.009819
-127013003,271737000 -> 44054006 | Standardized Lift: 0.3406 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.022203
-195662009,196416002 -> 82423001 | Standardized Lift: 0.3399 | Lift: 16.2243 | Confidence: 0.7705 | Interest: 0.015788
-124171000119105,195662009 -> 82423001 | Standardized Lift: 0.3396 | Lift: 16.2891 | Confidence: 0.7736 | Interest: 0.015776
-124171000119105,195662009 -> 196416002 | Standardized Lift: 0.3391 | Lift: 16.2662 | Confidence: 0.7743 | Interest: 0.015790
-126906006,55822004 -> 92691004 | Standardized Lift: 0.3387 | Lift: 40.6794 | Confidence: 0.9261 | Interest: 0.007644
-10509002,302870006 -> 368581000119106 | Standardized Lift: 0.3378 | Lift: 15.2647 | Confidence: 0.3531 | Interest: 0.008655
-127013003,15777000 -> 80394007 | Standardized Lift: 0.3373 | Lift: 21.2080 | Confidence: 0.6454 | Interest: 0.010097
-302870006 -> 368581000119106 | Standardized Lift: 0.3363 | Lift: 15.2005 | Confidence: 0.3516 | Interest: 0.021566
-195662009,302870006 -> 368581000119106 | Standardized Lift: 0.3344 | Lift: 15.1191 | Confidence: 0.3498 | Interest: 0.009848
-22298006 -> 53741008 | Standardized Lift: 0.3324 | Lift: 16.2613 | Confidence: 0.9625 | Interest: 0.019253
-399211009 -> 53741008 | Standardized Lift: 0.3324 | Lift: 16.2613 | Confidence: 0.9625 | Interest: 0.019253
-22298006,399211009 -> 53741008 | Standardized Lift: 0.3324 | Lift: 16.2613 | Confidence: 0.9625 | Interest: 0.019253
-15777000,368581000119106 -> 422034002 | Standardized Lift: 0.3318 | Lift: 22.3084 | Confidence: 0.3942 | Interest: 0.005774
-1551000119108,40055000 -> 97331000119101 | Standardized Lift: 0.3316 | Lift: 102.7964 | Confidence: 0.3811 | Interest: 0.001225
-368581000119106 -> 44054006 | Standardized Lift: 0.3309 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.021589
-271737000,68496003 -> 713197008 | Standardized Lift: 0.3305 | Lift: 15.4382 | Confidence: 0.3455 | Interest: 0.012705
-302870006,368581000119106 -> 44054006 | Standardized Lift: 0.3302 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.021543
-237602007,368581000119106 -> 44054006 | Standardized Lift: 0.3288 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.021453
-126906006,254637007 -> 424132000 | Standardized Lift: 0.3277 | Lift: 90.7471 | Confidence: 0.9993 | Interest: 0.003595
-126906006,162573006 -> 254637007 | Standardized Lift: 0.3274 | Lift: 76.7494 | Confidence: 0.8454 | Interest: 0.003590
-126906006,162573006 -> 424132000 | Standardized Lift: 0.3272 | Lift: 76.7187 | Confidence: 0.8448 | Interest: 0.003588
-237602007,431855005 -> 80394007 | Standardized Lift: 0.3256 | Lift: 12.3527 | Confidence: 0.3759 | Interest: 0.009633
-302870006,431855005 -> 80394007 | Standardized Lift: 0.3256 | Lift: 12.3428 | Confidence: 0.3756 | Interest: 0.009632
-431855005 -> 80394007 | Standardized Lift: 0.3256 | Lift: 12.3359 | Confidence: 0.3754 | Interest: 0.009632
-127013003,431855005 -> 80394007 | Standardized Lift: 0.3256 | Lift: 12.3359 | Confidence: 0.3754 | Interest: 0.009632
-431855005,44054006 -> 80394007 | Standardized Lift: 0.3256 | Lift: 12.3359 | Confidence: 0.3754 | Interest: 0.009632
-271737000,431855005 -> 44054006 | Standardized Lift: 0.3182 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.020774
-1551000119108,368581000119106 -> 422034002 | Standardized Lift: 0.3166 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.005563
-271737000,368581000119106 -> 80394007 | Standardized Lift: 0.3148 | Lift: 17.1416 | Confidence: 0.5216 | Interest: 0.009396
-1551000119108,19169002 -> 97331000119101 | Standardized Lift: 0.3128 | Lift: 107.9235 | Confidence: 0.4001 | Interest: 0.001156
-1501000119109,271737000 -> 97331000119101 | Standardized Lift: 0.3117 | Lift: 144.7382 | Confidence: 0.5365 | Interest: 0.001153
-15777000,431855005 -> 80394007 | Standardized Lift: 0.3108 | Lift: 21.0598 | Confidence: 0.6409 | Interest: 0.009314
-254637007,40055000 -> 424132000 | Standardized Lift: 0.3095 | Lift: 90.7890 | Confidence: 0.9997 | Interest: 0.003397
-162573006,40055000 -> 424132000 | Standardized Lift: 0.3091 | Lift: 76.7739 | Confidence: 0.8454 | Interest: 0.003390
-40055000,431856006 -> 90781000119102 | Standardized Lift: 0.3083 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001293
-127013003,40055000 -> 431855005 | Standardized Lift: 0.3081 | Lift: 33.3703 | Confidence: 0.9317 | Interest: 0.008521
-195662009,196416002 -> 55680006 | Standardized Lift: 0.3078 | Lift: 14.7900 | Confidence: 0.6820 | Interest: 0.013886
-124171000119105,195662009 -> 55680006 | Standardized Lift: 0.3078 | Lift: 14.8566 | Confidence: 0.6851 | Interest: 0.013884
-443165006 -> 64859006 | Standardized Lift: 0.3018 | Lift: 20.9323 | Confidence: 1.0000 | Interest: 0.014205
-237602007,40055000 -> 431855005 | Standardized Lift: 0.3010 | Lift: 16.4860 | Confidence: 0.4603 | Interest: 0.008244
-302870006,40055000 -> 431855005 | Standardized Lift: 0.3009 | Lift: 16.2220 | Confidence: 0.4529 | Interest: 0.008238
-236077008,363406005 -> 6072007 | Standardized Lift: 0.3000 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001145
-195662009,55680006 -> 82423001 | Standardized Lift: 0.2998 | Lift: 14.9211 | Confidence: 0.7086 | Interest: 0.013938
-10509002,196416002 -> 82423001 | Standardized Lift: 0.2992 | Lift: 16.2455 | Confidence: 0.7715 | Interest: 0.013936
-10509002,124171000119105 -> 196416002 | Standardized Lift: 0.2987 | Lift: 16.2972 | Confidence: 0.7758 | Interest: 0.013949
-127013003,271737000 -> 368581000119106 | Standardized Lift: 0.2987 | Lift: 13.6143 | Confidence: 0.3149 | Interest: 0.006943
-10509002,124171000119105 -> 82423001 | Standardized Lift: 0.2987 | Lift: 16.2962 | Confidence: 0.7739 | Interest: 0.013914
-127013003,368581000119106 -> 431855005 | Standardized Lift: 0.2978 | Lift: 33.9630 | Confidence: 0.9483 | Interest: 0.008241
-428251008,59621000 -> 74400008 | Standardized Lift: 0.2964 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.013613
-127013003,1551000119108 -> 97331000119101 | Standardized Lift: 0.2961 | Lift: 86.8494 | Confidence: 0.3219 | Interest: 0.001094
-237602007,422034002 -> 80394007 | Standardized Lift: 0.2940 | Lift: 17.4372 | Confidence: 0.5306 | Interest: 0.008790
-302870006,422034002 -> 80394007 | Standardized Lift: 0.2940 | Lift: 17.3765 | Confidence: 0.5288 | Interest: 0.008788
-422034002 -> 80394007 | Standardized Lift: 0.2939 | Lift: 17.3400 | Confidence: 0.5277 | Interest: 0.008787
-422034002,44054006 -> 80394007 | Standardized Lift: 0.2939 | Lift: 17.3400 | Confidence: 0.5277 | Interest: 0.008787
-237602007,40055000 -> 80394007 | Standardized Lift: 0.2933 | Lift: 16.0912 | Confidence: 0.4897 | Interest: 0.008756
-15777000,428251008 -> 47693006 | Standardized Lift: 0.2932 | Lift: 21.7843 | Confidence: 0.3030 | Interest: 0.005447
-302870006,40055000 -> 80394007 | Standardized Lift: 0.2931 | Lift: 15.8273 | Confidence: 0.4816 | Interest: 0.008746
-40055000,44054006 -> 80394007 | Standardized Lift: 0.2930 | Lift: 15.7341 | Confidence: 0.4788 | Interest: 0.008743
-40055000,68496003 -> 713197008 | Standardized Lift: 0.2925 | Lift: 13.7795 | Confidence: 0.3083 | Interest: 0.006933
-271737000,428251008 -> 47693006 | Standardized Lift: 0.2912 | Lift: 21.6392 | Confidence: 0.3010 | Interest: 0.005391
-428251008,444814009 -> 47693006 | Standardized Lift: 0.2909 | Lift: 21.6223 | Confidence: 0.3008 | Interest: 0.008848
-162864005,428251008 -> 47693006 | Standardized Lift: 0.2907 | Lift: 21.6090 | Confidence: 0.3006 | Interest: 0.005514
-47693006 -> 74400008 | Standardized Lift: 0.2887 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.013263
-428251008 -> 47693006 | Standardized Lift: 0.2887 | Lift: 21.4633 | Confidence: 0.2986 | Interest: 0.013263
-428251008,47693006 -> 74400008 | Standardized Lift: 0.2887 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.013263
-195662009,428251008 -> 47693006 | Standardized Lift: 0.2882 | Lift: 21.4275 | Confidence: 0.2981 | Interest: 0.006037
-237602007,368581000119106 -> 431855005 | Standardized Lift: 0.2877 | Lift: 13.2259 | Confidence: 0.3693 | Interest: 0.007847
-302870006,368581000119106 -> 431855005 | Standardized Lift: 0.2877 | Lift: 13.1736 | Confidence: 0.3678 | Interest: 0.007846
-368581000119106 -> 431855005 | Standardized Lift: 0.2876 | Lift: 13.1456 | Confidence: 0.3670 | Interest: 0.007845
-10509002,68496003 -> 713197008 | Standardized Lift: 0.2876 | Lift: 13.5634 | Confidence: 0.3035 | Interest: 0.008232
-162864005,68496003 -> 713197008 | Standardized Lift: 0.2872 | Lift: 13.5462 | Confidence: 0.3031 | Interest: 0.010829
-68496003 -> 713197008 | Standardized Lift: 0.2867 | Lift: 13.5252 | Confidence: 0.3027 | Interest: 0.020722
-127013003,271737000 -> 80394007 | Standardized Lift: 0.2867 | Lift: 12.7623 | Confidence: 0.3884 | Interest: 0.008516
-15777000,422034002 -> 80394007 | Standardized Lift: 0.2862 | Lift: 24.9624 | Confidence: 0.7596 | Interest: 0.008606
-444814009,68496003 -> 713197008 | Standardized Lift: 0.2862 | Lift: 13.5028 | Confidence: 0.3022 | Interest: 0.013786
-15777000,68496003 -> 713197008 | Standardized Lift: 0.2861 | Lift: 13.4975 | Confidence: 0.3020 | Interest: 0.010818
-195662009,68496003 -> 713197008 | Standardized Lift: 0.2858 | Lift: 13.4862 | Confidence: 0.3018 | Interest: 0.009409
-59621000,68496003 -> 713197008 | Standardized Lift: 0.2858 | Lift: 13.4856 | Confidence: 0.3018 | Interest: 0.006820
-10509002,428251008 -> 47693006 | Standardized Lift: 0.2855 | Lift: 21.2384 | Confidence: 0.2954 | Interest: 0.005266
-236077008,40055000 -> 6072007 | Standardized Lift: 0.2848 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001087
-15777000,237602007 -> 422034002 | Standardized Lift: 0.2847 | Lift: 16.8251 | Confidence: 0.2973 | Interest: 0.011069
-1551000119108,431855005 -> 97331000119101 | Standardized Lift: 0.2836 | Lift: 86.5829 | Confidence: 0.3210 | Interest: 0.001048
-127013003,237602007 -> 368581000119106 | Standardized Lift: 0.2833 | Lift: 12.9611 | Confidence: 0.2998 | Interest: 0.008262
-127013003,302870006 -> 368581000119106 | Standardized Lift: 0.2831 | Lift: 12.9531 | Confidence: 0.2997 | Interest: 0.008263
-127013003 -> 368581000119106 | Standardized Lift: 0.2829 | Lift: 12.9460 | Confidence: 0.2995 | Interest: 0.008262
-55822004,68496003 -> 713197008 | Standardized Lift: 0.2804 | Lift: 14.1568 | Confidence: 0.3168 | Interest: 0.006143
-15777000,302870006 -> 422034002 | Standardized Lift: 0.2802 | Lift: 16.5759 | Confidence: 0.2929 | Interest: 0.011079
-19169002,68496003 -> 713197008 | Standardized Lift: 0.2795 | Lift: 14.0143 | Confidence: 0.3136 | Interest: 0.006123
-1551000119108,55822004 -> 97331000119101 | Standardized Lift: 0.2792 | Lift: 107.1258 | Confidence: 0.3971 | Interest: 0.001032
-124171000119105,162864005 -> 55680006 | Standardized Lift: 0.2757 | Lift: 16.0440 | Confidence: 0.7399 | Interest: 0.012485
-162864005,196416002 -> 55680006 | Standardized Lift: 0.2753 | Lift: 15.9603 | Confidence: 0.7360 | Interest: 0.012464
-237602007,40055000 -> 422034002 | Standardized Lift: 0.2750 | Lift: 16.2894 | Confidence: 0.2879 | Interest: 0.005151
-359817006 -> 443165006 | Standardized Lift: 0.2745 | Lift: 24.9945 | Confidence: 0.3729 | Interest: 0.004048
-302870006,40055000 -> 44054006 | Standardized Lift: 0.2732 | Lift: 14.8191 | Confidence: 0.9897 | Interest: 0.017889
-124171000119105,162864005 -> 82423001 | Standardized Lift: 0.2728 | Lift: 15.8866 | Confidence: 0.7545 | Interest: 0.012723
-271737000,368581000119106 -> 44054006 | Standardized Lift: 0.2725 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.017850
-162864005,196416002 -> 82423001 | Standardized Lift: 0.2723 | Lift: 15.7972 | Confidence: 0.7502 | Interest: 0.012696
-124171000119105,162864005 -> 196416002 | Standardized Lift: 0.2715 | Lift: 15.8136 | Confidence: 0.7528 | Interest: 0.012691
-302870006,40055000 -> 422034002 | Standardized Lift: 0.2711 | Lift: 16.0702 | Confidence: 0.2840 | Interest: 0.005162
-15777000,195662009 -> 271737000 | Standardized Lift: 0.2709 | Lift: 2.6621 | Confidence: 0.8173 | Interest: 0.071511
-237602007,40055000 -> 44054006 | Standardized Lift: 0.2707 | Lift: 14.9292 | Confidence: 0.9970 | Interest: 0.017735
-10509002,196416002 -> 55680006 | Standardized Lift: 0.2704 | Lift: 14.7767 | Confidence: 0.6814 | Interest: 0.012229
-368581000119106,422034002 -> 97331000119101 | Standardized Lift: 0.2697 | Lift: 73.4826 | Confidence: 0.2724 | Interest: 0.002322
-10509002,124171000119105 -> 55680006 | Standardized Lift: 0.2691 | Lift: 14.7783 | Confidence: 0.6815 | Interest: 0.012171
-19169002,236077008 -> 6072007 | Standardized Lift: 0.2686 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001025
-237602007,271737000 -> 422034002 | Standardized Lift: 0.2681 | Lift: 15.9058 | Confidence: 0.2811 | Interest: 0.013657
-124171000119105,15777000 -> 55680006 | Standardized Lift: 0.2662 | Lift: 15.8627 | Confidence: 0.7315 | Interest: 0.012059
-162864005,55680006 -> 82423001 | Standardized Lift: 0.2660 | Lift: 14.5890 | Confidence: 0.6928 | Interest: 0.012391
-1501000119109,15777000 -> 97331000119101 | Standardized Lift: 0.2650 | Lift: 143.0839 | Confidence: 0.5304 | Interest: 0.000981
-15777000,196416002 -> 55680006 | Standardized Lift: 0.2650 | Lift: 15.9395 | Confidence: 0.7351 | Interest: 0.012007
-271737000,431855005 -> 80394007 | Standardized Lift: 0.2648 | Lift: 12.6325 | Confidence: 0.3844 | Interest: 0.007880
-124171000119105,15777000 -> 82423001 | Standardized Lift: 0.2641 | Lift: 15.7497 | Confidence: 0.7480 | Interest: 0.012324
-15777000,196416002 -> 82423001 | Standardized Lift: 0.2633 | Lift: 15.8464 | Confidence: 0.7526 | Interest: 0.012288
-271737000,302870006 -> 422034002 | Standardized Lift: 0.2631 | Lift: 15.6227 | Confidence: 0.2761 | Interest: 0.013689
-363406005,68496003 -> 713197008 | Standardized Lift: 0.2629 | Lift: 44.6890 | Confidence: 1.0000 | Interest: 0.005848
-124171000119105,15777000 -> 196416002 | Standardized Lift: 0.2628 | Lift: 15.6731 | Confidence: 0.7461 | Interest: 0.012289
-363406005 -> 713197008 | Standardized Lift: 0.2620 | Lift: 37.4880 | Confidence: 0.8389 | Interest: 0.005822
-1501000119109,368581000119106 -> 97331000119101 | Standardized Lift: 0.2616 | Lift: 155.6518 | Confidence: 0.5770 | Interest: 0.000968
-10509002,55680006 -> 82423001 | Standardized Lift: 0.2612 | Lift: 14.7913 | Confidence: 0.7024 | Interest: 0.012175
-124171000119105,271737000 -> 82423001 | Standardized Lift: 0.2609 | Lift: 15.8289 | Confidence: 0.7517 | Interest: 0.012178
-40055000,410429000 -> 429007001 | Standardized Lift: 0.2608 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.009625
-196416002,271737000 -> 82423001 | Standardized Lift: 0.2604 | Lift: 15.8990 | Confidence: 0.7551 | Interest: 0.012155
-237602007 -> 422034002 | Standardized Lift: 0.2604 | Lift: 15.4732 | Confidence: 0.2734 | Interest: 0.016437
-237602007,302870006 -> 422034002 | Standardized Lift: 0.2604 | Lift: 15.4732 | Confidence: 0.2734 | Interest: 0.016437
-162864005,703151001 -> 84757009 | Standardized Lift: 0.2603 | Lift: 27.2305 | Confidence: 0.5258 | Interest: 0.004977
-128613002,162864005 -> 84757009 | Standardized Lift: 0.2603 | Lift: 27.2305 | Confidence: 0.5258 | Interest: 0.004977
-124171000119105,271737000 -> 55680006 | Standardized Lift: 0.2602 | Lift: 15.7875 | Confidence: 0.7280 | Interest: 0.011793
-196416002,271737000 -> 55680006 | Standardized Lift: 0.2599 | Lift: 15.8705 | Confidence: 0.7319 | Interest: 0.011781
-128613002,162864005 -> 703151001 | Standardized Lift: 0.2592 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.009464
-1501000119109 -> 1551000119108 | Standardized Lift: 0.2573 | Lift: 98.8960 | Confidence: 1.0000 | Interest: 0.002595
-40055000,428251008 -> 47693006 | Standardized Lift: 0.2571 | Lift: 21.6329 | Confidence: 0.3009 | Interest: 0.003533
-15777000,55680006 -> 82423001 | Standardized Lift: 0.2571 | Lift: 14.5053 | Confidence: 0.6889 | Interest: 0.011981
-10509002,237602007 -> 422034002 | Standardized Lift: 0.2561 | Lift: 15.2380 | Confidence: 0.2693 | Interest: 0.006464
-195662009,237602007 -> 422034002 | Standardized Lift: 0.2561 | Lift: 15.2378 | Confidence: 0.2693 | Interest: 0.007424
-1551000119108,195662009 -> 422034002 | Standardized Lift: 0.2558 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.004499
-302870006 -> 422034002 | Standardized Lift: 0.2555 | Lift: 15.2009 | Confidence: 0.2686 | Interest: 0.016474
-19169002,302870006 -> 422034002 | Standardized Lift: 0.2550 | Lift: 17.6358 | Confidence: 0.3116 | Interest: 0.004439
-40055000,428251008 -> 74400008 | Standardized Lift: 0.2550 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.011736
-19169002,237602007 -> 422034002 | Standardized Lift: 0.2550 | Lift: 17.9054 | Confidence: 0.3164 | Interest: 0.004439
-1501000119109,444814009 -> 97331000119101 | Standardized Lift: 0.2532 | Lift: 145.5472 | Confidence: 0.5395 | Interest: 0.000937
-368581000119106,444814009 -> 80394007 | Standardized Lift: 0.2532 | Lift: 17.0876 | Confidence: 0.5200 | Interest: 0.007585
-431856006,55822004 -> 90781000119102 | Standardized Lift: 0.2531 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001062
-19169002,302870006 -> 368581000119106 | Standardized Lift: 0.2519 | Lift: 17.4288 | Confidence: 0.4032 | Interest: 0.005738
-128613002,271737000 -> 84757009 | Standardized Lift: 0.2516 | Lift: 27.2044 | Confidence: 0.5253 | Interest: 0.004812
-271737000,703151001 -> 84757009 | Standardized Lift: 0.2516 | Lift: 27.2044 | Confidence: 0.5253 | Interest: 0.004812
-19169002,237602007 -> 368581000119106 | Standardized Lift: 0.2515 | Lift: 17.6789 | Confidence: 0.4090 | Interest: 0.005733
-10509002,302870006 -> 422034002 | Standardized Lift: 0.2515 | Lift: 14.9803 | Confidence: 0.2647 | Interest: 0.006479
-422034002 -> 44054006 | Standardized Lift: 0.2514 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.016491
-271737000,55680006 -> 82423001 | Standardized Lift: 0.2513 | Lift: 14.5896 | Confidence: 0.6929 | Interest: 0.011717
-195662009,302870006 -> 422034002 | Standardized Lift: 0.2511 | Lift: 14.9607 | Confidence: 0.2644 | Interest: 0.007438
-302870006,422034002 -> 44054006 | Standardized Lift: 0.2508 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.016457
-128613002,271737000 -> 703151001 | Standardized Lift: 0.2507 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.009160
-19169002 -> 72892002 | Standardized Lift: 0.2503 | Lift: 2.1847 | Confidence: 0.3876 | Interest: 0.036661
-237602007,422034002 -> 44054006 | Standardized Lift: 0.2500 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.016399
-128613002,15777000 -> 703151001 | Standardized Lift: 0.2474 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.009038
-15777000,703151001 -> 84757009 | Standardized Lift: 0.2473 | Lift: 27.1076 | Confidence: 0.5234 | Interest: 0.004731
-128613002,15777000 -> 84757009 | Standardized Lift: 0.2473 | Lift: 27.1076 | Confidence: 0.5234 | Interest: 0.004731
-233604007 -> 26929004 | Standardized Lift: 0.2463 | Lift: 26.2707 | Confidence: 0.7885 | Interest: 0.007323
-422034002,55822004 -> 97331000119101 | Standardized Lift: 0.2460 | Lift: 67.1083 | Confidence: 0.2488 | Interest: 0.001026
-162864005,237602007 -> 302870006 | Standardized Lift: 0.2450 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.015811
-19169002,422034002 -> 97331000119101 | Standardized Lift: 0.2449 | Lift: 66.8117 | Confidence: 0.2477 | Interest: 0.001150
-271737000,422034002 -> 80394007 | Standardized Lift: 0.2431 | Lift: 17.3583 | Confidence: 0.5282 | Interest: 0.007290
-127013003,15777000 -> 237602007 | Standardized Lift: 0.2428 | Lift: 15.5476 | Confidence: 0.9992 | Interest: 0.015351
-19169002,237602007 -> 80394007 | Standardized Lift: 0.2409 | Lift: 16.9705 | Confidence: 0.5164 | Interest: 0.007221
-19169002,302870006 -> 80394007 | Standardized Lift: 0.2407 | Lift: 16.6996 | Confidence: 0.5082 | Interest: 0.007213
-19169002,44054006 -> 80394007 | Standardized Lift: 0.2406 | Lift: 16.5999 | Confidence: 0.5051 | Interest: 0.007211
-126906006,302870006 -> 92691004 | Standardized Lift: 0.2401 | Lift: 40.0687 | Confidence: 0.9122 | Interest: 0.005434
-271737000,368581000119106 -> 431855005 | Standardized Lift: 0.2399 | Lift: 13.3025 | Confidence: 0.3714 | Interest: 0.006570
-126906006,237602007 -> 92691004 | Standardized Lift: 0.2388 | Lift: 40.0552 | Confidence: 0.9119 | Interest: 0.005404
-162864005,302870006 -> 44054006 | Standardized Lift: 0.2380 | Lift: 14.8249 | Confidence: 0.9900 | Interest: 0.015624
-162864005,237602007 -> 44054006 | Standardized Lift: 0.2380 | Lift: 14.8249 | Confidence: 0.9900 | Interest: 0.015624
-126906006,44054006 -> 92691004 | Standardized Lift: 0.2380 | Lift: 40.0425 | Confidence: 0.9116 | Interest: 0.005385
-127013003,15777000 -> 302870006 | Standardized Lift: 0.2374 | Lift: 15.2241 | Confidence: 0.9994 | Interest: 0.015331
-1551000119108 -> 368581000119106 | Standardized Lift: 0.2371 | Lift: 24.2079 | Confidence: 0.5600 | Interest: 0.005429
-1551000119108,302870006 -> 368581000119106 | Standardized Lift: 0.2371 | Lift: 24.2079 | Confidence: 0.5600 | Interest: 0.005429
-1551000119108,237602007 -> 368581000119106 | Standardized Lift: 0.2370 | Lift: 24.2498 | Confidence: 0.5610 | Interest: 0.005428
-109838007 -> 713197008 | Standardized Lift: 0.2351 | Lift: 34.1484 | Confidence: 0.7641 | Interest: 0.005224
-109838007,68496003 -> 713197008 | Standardized Lift: 0.2351 | Lift: 34.1484 | Confidence: 0.7641 | Interest: 0.005224
-127013003,444814009 -> 80394007 | Standardized Lift: 0.2350 | Lift: 12.5424 | Confidence: 0.3817 | Interest: 0.007007
-126906006,449868002 -> 92691004 | Standardized Lift: 0.2340 | Lift: 40.2041 | Confidence: 0.9153 | Interest: 0.005296
-127013003,15777000 -> 44054006 | Standardized Lift: 0.2333 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.015322
-162864005,431856006 -> 90781000119102 | Standardized Lift: 0.2315 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.000971
-10509002,15777000 -> 271737000 | Standardized Lift: 0.2313 | Lift: 2.6665 | Confidence: 0.8186 | Interest: 0.062364
-449868002 -> 92691004 | Standardized Lift: 0.2294 | Lift: 20.1020 | Confidence: 0.4576 | Interest: 0.005161
-127013003,162864005 -> 431855005 | Standardized Lift: 0.2291 | Lift: 33.3637 | Confidence: 0.9316 | Interest: 0.006353
-126906006 -> 449868002 | Standardized Lift: 0.2281 | Lift: 19.9899 | Confidence: 0.2372 | Interest: 0.005637
-126906006,162864005 -> 449868002 | Standardized Lift: 0.2270 | Lift: 20.4807 | Confidence: 0.2431 | Interest: 0.002663
-126906006,444814009 -> 449868002 | Standardized Lift: 0.2259 | Lift: 19.8122 | Confidence: 0.2351 | Interest: 0.003703
-233678006 -> 24079001 | Standardized Lift: 0.2255 | Lift: 13.5387 | Confidence: 0.2392 | Interest: 0.004928
-127013003,422034002 -> 431855005 | Standardized Lift: 0.2250 | Lift: 34.0401 | Confidence: 0.9504 | Interest: 0.006239
-127013003,271737000 -> 422034002 | Standardized Lift: 0.2248 | Lift: 13.4974 | Confidence: 0.2385 | Interest: 0.005254
-126906006,15777000 -> 449868002 | Standardized Lift: 0.2239 | Lift: 19.6412 | Confidence: 0.2331 | Interest: 0.003293
-126906006,271737000 -> 449868002 | Standardized Lift: 0.2237 | Lift: 19.6229 | Confidence: 0.2329 | Interest: 0.003843
-124171000119105,59621000 -> 82423001 | Standardized Lift: 0.2226 | Lift: 16.1419 | Confidence: 0.7666 | Interest: 0.010420
-196416002,59621000 -> 82423001 | Standardized Lift: 0.2223 | Lift: 16.0313 | Confidence: 0.7613 | Interest: 0.010403
-10509002,1551000119108 -> 422034002 | Standardized Lift: 0.2219 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.003906
-126906006,127013003 -> 92691004 | Standardized Lift: 0.2219 | Lift: 40.2103 | Confidence: 0.9154 | Interest: 0.005023
-40055000,422034002 -> 97331000119101 | Standardized Lift: 0.2215 | Lift: 60.5405 | Confidence: 0.2244 | Interest: 0.001217
-162864005,237602007 -> 431855005 | Standardized Lift: 0.2212 | Lift: 13.8514 | Confidence: 0.3867 | Interest: 0.006072
-162864005,302870006 -> 431855005 | Standardized Lift: 0.2212 | Lift: 13.8514 | Confidence: 0.3867 | Interest: 0.006072
-127013003,15777000 -> 422034002 | Standardized Lift: 0.2212 | Lift: 14.2499 | Confidence: 0.2518 | Interest: 0.003844
-22298006,444814009 -> 53741008 | Standardized Lift: 0.2202 | Lift: 16.2784 | Confidence: 0.9635 | Interest: 0.012848
-399211009,444814009 -> 53741008 | Standardized Lift: 0.2202 | Lift: 16.2784 | Confidence: 0.9635 | Interest: 0.012848
-127013003,15777000 -> 368581000119106 | Standardized Lift: 0.2199 | Lift: 14.1763 | Confidence: 0.3279 | Interest: 0.005005
-422034002,80394007 -> 97331000119101 | Standardized Lift: 0.2197 | Lift: 60.0569 | Confidence: 0.2226 | Interest: 0.002041
-126906006,195662009 -> 449868002 | Standardized Lift: 0.2196 | Lift: 19.8663 | Confidence: 0.2358 | Interest: 0.002576
-162864005,302870006 -> 368581000119106 | Standardized Lift: 0.2195 | Lift: 13.7544 | Confidence: 0.3182 | Interest: 0.004993
-162864005,237602007 -> 368581000119106 | Standardized Lift: 0.2195 | Lift: 13.7544 | Confidence: 0.3182 | Interest: 0.004993
-162864005,237602007 -> 422034002 | Standardized Lift: 0.2193 | Lift: 13.7391 | Confidence: 0.2428 | Interest: 0.003810
-162864005,302870006 -> 422034002 | Standardized Lift: 0.2193 | Lift: 13.7391 | Confidence: 0.2428 | Interest: 0.003810
-368581000119106,59621000 -> 80394007 | Standardized Lift: 0.2182 | Lift: 16.5797 | Confidence: 0.5045 | Interest: 0.006549
-15777000,368581000119106 -> 44054006 | Standardized Lift: 0.2176 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.014309
-15777000,422034002 -> 97331000119101 | Standardized Lift: 0.2174 | Lift: 59.4352 | Confidence: 0.2203 | Interest: 0.002557
-431855005,444814009 -> 80394007 | Standardized Lift: 0.2169 | Lift: 12.4207 | Confidence: 0.3780 | Interest: 0.006477
-15777000,431855005 -> 44054006 | Standardized Lift: 0.2165 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.014239
-237602007,422034002 -> 431855005 | Standardized Lift: 0.2164 | Lift: 13.0992 | Confidence: 0.3657 | Interest: 0.005937
-302870006,422034002 -> 431855005 | Standardized Lift: 0.2164 | Lift: 13.0554 | Confidence: 0.3645 | Interest: 0.005936
-422034002 -> 431855005 | Standardized Lift: 0.2164 | Lift: 13.0279 | Confidence: 0.3638 | Interest: 0.005935
-126906006,53741008 -> 92691004 | Standardized Lift: 0.2159 | Lift: 41.7652 | Confidence: 0.9508 | Interest: 0.004890
-44054006,55822004 -> 80394007 | Standardized Lift: 0.2153 | Lift: 16.9354 | Confidence: 0.5154 | Interest: 0.006465
-237602007,55822004 -> 80394007 | Standardized Lift: 0.2153 | Lift: 16.9124 | Confidence: 0.5147 | Interest: 0.006464
-302870006,55822004 -> 80394007 | Standardized Lift: 0.2152 | Lift: 16.7541 | Confidence: 0.5098 | Interest: 0.006460
-19169002,237602007 -> 302870006 | Standardized Lift: 0.2147 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.013882
-195662009,368581000119106 -> 422034002 | Standardized Lift: 0.2144 | Lift: 21.0756 | Confidence: 0.3724 | Interest: 0.003749
-128613002,59621000 -> 84757009 | Standardized Lift: 0.2142 | Lift: 27.5903 | Confidence: 0.5327 | Interest: 0.004104
-59621000,703151001 -> 84757009 | Standardized Lift: 0.2142 | Lift: 27.5903 | Confidence: 0.5327 | Interest: 0.004104
-126906006,49436004 -> 92691004 | Standardized Lift: 0.2142 | Lift: 42.1803 | Confidence: 0.9603 | Interest: 0.004850
-127013003,237602007 -> 422034002 | Standardized Lift: 0.2126 | Lift: 12.8169 | Confidence: 0.2265 | Interest: 0.006235
-127013003,302870006 -> 422034002 | Standardized Lift: 0.2124 | Lift: 12.8081 | Confidence: 0.2263 | Interest: 0.006235
-127013003 -> 422034002 | Standardized Lift: 0.2123 | Lift: 12.8011 | Confidence: 0.2262 | Interest: 0.006235
-422034002,59621000 -> 97331000119101 | Standardized Lift: 0.2121 | Lift: 57.9984 | Confidence: 0.2150 | Interest: 0.002230
-19169002,302870006 -> 44054006 | Standardized Lift: 0.2118 | Lift: 14.8172 | Confidence: 0.9895 | Interest: 0.013932
-128613002,59621000 -> 703151001 | Standardized Lift: 0.2104 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.007698
-19169002,237602007 -> 44054006 | Standardized Lift: 0.2101 | Lift: 14.9296 | Confidence: 0.9970 | Interest: 0.013821
-126906006,230690007 -> 92691004 | Standardized Lift: 0.2083 | Lift: 42.0258 | Confidence: 0.9567 | Interest: 0.004719
-195662009,422034002 -> 97331000119101 | Standardized Lift: 0.2081 | Lift: 56.9178 | Confidence: 0.2110 | Interest: 0.001656
-422034002,444814009 -> 97331000119101 | Standardized Lift: 0.2080 | Lift: 56.9145 | Confidence: 0.2110 | Interest: 0.002457
-237602007,422034002 -> 97331000119101 | Standardized Lift: 0.2080 | Lift: 56.8925 | Confidence: 0.2109 | Interest: 0.003641
-271737000,422034002 -> 44054006 | Standardized Lift: 0.2077 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.013667
-302870006,422034002 -> 97331000119101 | Standardized Lift: 0.2073 | Lift: 56.7079 | Confidence: 0.2102 | Interest: 0.003642
-422034002 -> 97331000119101 | Standardized Lift: 0.2068 | Lift: 56.5887 | Confidence: 0.2098 | Interest: 0.003641
-422034002,44054006 -> 97331000119101 | Standardized Lift: 0.2068 | Lift: 56.5887 | Confidence: 0.2098 | Interest: 0.003641
-230265002 -> 233604007 | Standardized Lift: 0.2066 | Lift: 34.3110 | Confidence: 0.3312 | Interest: 0.001982
-126906006,431855005 -> 92691004 | Standardized Lift: 0.2062 | Lift: 40.2255 | Confidence: 0.9158 | Interest: 0.004670
-55680006,59621000 -> 82423001 | Standardized Lift: 0.2052 | Lift: 14.8689 | Confidence: 0.7061 | Interest: 0.009602
-271737000,422034002 -> 97331000119101 | Standardized Lift: 0.2045 | Lift: 55.9651 | Confidence: 0.2075 | Interest: 0.002984
-127013003,195662009 -> 237602007 | Standardized Lift: 0.2040 | Lift: 15.5356 | Confidence: 0.9984 | Interest: 0.012931
-127013003,59621000 -> 80394007 | Standardized Lift: 0.2028 | Lift: 12.0565 | Confidence: 0.3669 | Interest: 0.006060
-110030002 -> 275272006 | Standardized Lift: 0.2024 | Lift: 37.8496 | Confidence: 0.2375 | Interest: 0.001263
-126906006,68496003 -> 92691004 | Standardized Lift: 0.2023 | Lift: 40.3439 | Confidence: 0.9185 | Interest: 0.004583
-443165006,444814009 -> 64859006 | Standardized Lift: 0.2014 | Lift: 20.9323 | Confidence: 1.0000 | Interest: 0.009527
-19169002,410429000 -> 429007001 | Standardized Lift: 0.2011 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.007440
-10509002,422034002 -> 97331000119101 | Standardized Lift: 0.2010 | Lift: 55.0330 | Confidence: 0.2040 | Interest: 0.001393
+Cholelithiasis -> Acute Cholecystitis | Standardized Lift: 1.0000 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.002300
+History of appendectomy -> Appendicitis | Standardized Lift: 1.0000 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.044421
+Myocardial Infarction -> History of myocardial infarction (situation) | Standardized Lift: 1.0000 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.020859
+Cardiac Arrest -> History of cardiac arrest (situation) | Standardized Lift: 1.0000 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.035892
+Seizure disorder -> History of single seizure (situation) | Standardized Lift: 1.0000 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.035521
+Protracted diarrhea -> Bleeding from anus | Standardized Lift: 1.0000 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.003805
+Non-small cell lung cancer (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.9997 | Lift: 90.7833 | Confidence: 0.9997 | Interest: 0.010890
+Suspected lung cancer (situation), Non-small cell lung cancer (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.9997 | Lift: 90.7833 | Confidence: 0.9997 | Interest: 0.010890
+Small cell carcinoma of lung (disorder) -> Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | Standardized Lift: 0.9996 | Lift: 514.4791 | Confidence: 0.9996 | Interest: 0.001939
+Suspected lung cancer (situation), Small cell carcinoma of lung (disorder) -> Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | Standardized Lift: 0.9996 | Lift: 514.4791 | Confidence: 0.9996 | Interest: 0.001939
+Metabolic syndrome X (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.9775 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.060049
+Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.9724 | Lift: 14.8394 | Confidence: 0.9910 | Interest: 0.060673
+Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.9696 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004055
+Chronic kidney disease stage 2 (disorder), Diabetes -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.9696 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004055
+Diabetic renal disease (disorder), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.9696 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004055
+Hypertriglyceridemia (disorder), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.9694 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004054
+Metabolic syndrome X (disorder), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.9688 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.004052
+Metabolic syndrome X (disorder) -> Diabetes | Standardized Lift: 0.9571 | Lift: 14.9347 | Confidence: 0.9974 | Interest: 0.059807
+Metabolic syndrome X (disorder), Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.9571 | Lift: 14.9347 | Confidence: 0.9974 | Interest: 0.059807
+Diabetic renal disease (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.9320 | Lift: 33.4473 | Confidence: 0.9339 | Interest: 0.027086
+Diabetic renal disease (disorder), Metabolic syndrome X (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.9320 | Lift: 33.4472 | Confidence: 0.9339 | Interest: 0.027050
+Diabetic renal disease (disorder), Hypertriglyceridemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.9320 | Lift: 33.4470 | Confidence: 0.9339 | Interest: 0.027071
+Neoplasm of prostate -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.9081 | Lift: 39.9799 | Confidence: 0.9102 | Interest: 0.022196
+Suspected lung cancer (situation) -> Non-small cell lung cancer (disorder) | Standardized Lift: 0.8474 | Lift: 77.0845 | Confidence: 0.8491 | Interest: 0.010872
+Suspected lung cancer (situation) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.8472 | Lift: 77.0845 | Confidence: 0.8488 | Interest: 0.010869
+Diabetic renal disease (disorder), Anemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.7923 | Lift: 33.5107 | Confidence: 0.9357 | Interest: 0.021597
+Metabolic syndrome X (disorder), Anemia (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.7783 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.048445
+Anemia (disorder), Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.7739 | Lift: 14.8348 | Confidence: 0.9907 | Interest: 0.048946
+Metabolic syndrome X (disorder), Anemia (disorder) -> Diabetes | Standardized Lift: 0.7620 | Lift: 14.9348 | Confidence: 0.9974 | Interest: 0.048251
+Chronic intractable migraine without aura -> Chronic pain | Standardized Lift: 0.7605 | Lift: 16.2529 | Confidence: 0.7719 | Interest: 0.034423
+Chronic intractable migraine without aura -> Impacted molars | Standardized Lift: 0.7597 | Lift: 16.2269 | Confidence: 0.7725 | Interest: 0.034446
+Impacted molars -> Chronic pain | Standardized Lift: 0.7591 | Lift: 16.2257 | Confidence: 0.7706 | Interest: 0.034421
+Anemia (disorder), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.7577 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.003172
+Prediabetes -> Anemia (disorder) | Standardized Lift: 0.7316 | Lift: 2.6585 | Confidence: 0.8162 | Interest: 0.155845
+Chronic intractable migraine without aura, Impacted molars -> Chronic pain | Standardized Lift: 0.7285 | Lift: 20.1163 | Confidence: 0.9553 | Interest: 0.033326
+Small cell carcinoma of lung (disorder), Anemia (disorder) -> Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | Standardized Lift: 0.7213 | Lift: 514.3909 | Confidence: 0.9994 | Interest: 0.001399
+Non-small cell lung cancer (disorder), Anemia (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.7165 | Lift: 90.7821 | Confidence: 0.9997 | Interest: 0.007828
+Suspected lung cancer (situation), Anemia (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.7161 | Lift: 77.0458 | Confidence: 0.8484 | Interest: 0.007812
+Protracted diarrhea, Anemia (disorder) -> Bleeding from anus | Standardized Lift: 0.7147 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.002723
+Prediabetes, Metabolic syndrome X (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.7103 | Lift: 23.6325 | Confidence: 0.7192 | Interest: 0.027261
+Prediabetes, Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.6998 | Lift: 23.2964 | Confidence: 0.7089 | Interest: 0.027244
+Prediabetes, Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.6980 | Lift: 23.2399 | Confidence: 0.7072 | Interest: 0.027241
+Neoplasm of prostate, Anemia (disorder) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.6906 | Lift: 40.0300 | Confidence: 0.9113 | Interest: 0.015448
+Drug overdose -> Chronic pain | Standardized Lift: 0.6722 | Lift: 14.9045 | Confidence: 0.7078 | Interest: 0.030451
+Cholelithiasis, Viral sinusitis (disorder) -> Acute Cholecystitis | Standardized Lift: 0.6719 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001546
+Chronic intractable migraine without aura -> Drug overdose | Standardized Lift: 0.6714 | Lift: 14.8884 | Confidence: 0.6866 | Interest: 0.030436
+Impacted molars -> Drug overdose | Standardized Lift: 0.6706 | Lift: 14.8722 | Confidence: 0.6858 | Interest: 0.030453
+Small cell carcinoma of lung (disorder), Viral sinusitis (disorder) -> Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | Standardized Lift: 0.6683 | Lift: 514.3659 | Confidence: 0.9993 | Interest: 0.001297
+Protracted diarrhea, Viral sinusitis (disorder) -> Bleeding from anus | Standardized Lift: 0.6642 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.002531
+Neoplasm of prostate, Viral sinusitis (disorder) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.6569 | Lift: 39.9515 | Confidence: 0.9095 | Interest: 0.014707
+History of appendectomy, Viral sinusitis (disorder) -> Appendicitis | Standardized Lift: 0.6512 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.029406
+Chronic intractable migraine without aura, Impacted molars -> Drug overdose | Standardized Lift: 0.6455 | Lift: 17.9391 | Confidence: 0.8273 | Interest: 0.028675
+Chronic kidney disease stage 2 (disorder), Viral sinusitis (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.6448 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.002700
+Impacted molars, Drug overdose -> Chronic pain | Standardized Lift: 0.6274 | Lift: 19.5898 | Confidence: 0.9303 | Interest: 0.028823
+Chronic intractable migraine without aura, Drug overdose -> Chronic pain | Standardized Lift: 0.6273 | Lift: 19.5989 | Confidence: 0.9308 | Interest: 0.028819
+Neoplasm of prostate, Prediabetes -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.5886 | Lift: 39.9495 | Confidence: 0.9095 | Interest: 0.013201
+Seizure disorder, Viral sinusitis (disorder) -> History of single seizure (situation) | Standardized Lift: 0.5884 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.021224
+Prediabetes, Metabolic syndrome X (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.5866 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.036983
+Prediabetes, Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.5768 | Lift: 14.7545 | Confidence: 0.9853 | Interest: 0.036972
+Prediabetes, Metabolic syndrome X (disorder) -> Diabetes | Standardized Lift: 0.5733 | Lift: 14.9102 | Confidence: 0.9957 | Interest: 0.036770
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.5678 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.009933
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.5678 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.009933
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Metabolic syndrome X (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.5668 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.009914
+Prediabetes, Small cell carcinoma of lung (disorder) -> Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | Standardized Lift: 0.5487 | Lift: 514.2914 | Confidence: 0.9992 | Interest: 0.001065
+Prediabetes, Non-small cell lung cancer (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.5425 | Lift: 90.7726 | Confidence: 0.9996 | Interest: 0.005938
+Prediabetes, Suspected lung cancer (situation) -> Non-small cell lung cancer (disorder) | Standardized Lift: 0.5420 | Lift: 76.9870 | Confidence: 0.8480 | Interest: 0.005928
+Prediabetes, Suspected lung cancer (situation) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.5420 | Lift: 76.9779 | Confidence: 0.8477 | Interest: 0.005926
+Prediabetes, Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.5396 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.002261
+Diabetic renal disease (disorder), Prediabetes -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.5389 | Lift: 33.2824 | Confidence: 0.9293 | Interest: 0.014799
+Chronic kidney disease stage 2 (disorder), Hypertension -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.5332 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.002234
+Body mass index 30+ - obesity (finding), Small cell carcinoma of lung (disorder) -> Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | Standardized Lift: 0.5260 | Lift: 514.7079 | Confidence: 1.0000 | Interest: 0.001021
+Viral sinusitis (disorder), History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.5163 | Lift: 27.2210 | Confidence: 0.5256 | Interest: 0.011157
+Seizure disorder, Viral sinusitis (disorder) -> Epilepsy | Standardized Lift: 0.5163 | Lift: 27.2210 | Confidence: 0.5256 | Interest: 0.011157
+History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.5142 | Lift: 27.1140 | Confidence: 0.5236 | Interest: 0.018597
+Seizure disorder -> Epilepsy | Standardized Lift: 0.5142 | Lift: 27.1140 | Confidence: 0.5236 | Interest: 0.018597
+Seizure disorder, History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.5142 | Lift: 27.1140 | Confidence: 0.5236 | Interest: 0.018597
+Chronic kidney disease stage 1 (disorder), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.5122 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.002146
+Chronic intractable migraine without aura, Viral sinusitis (disorder) -> Chronic pain | Standardized Lift: 0.4982 | Lift: 16.2760 | Confidence: 0.7730 | Interest: 0.022911
+Impacted molars, Viral sinusitis (disorder) -> Chronic pain | Standardized Lift: 0.4976 | Lift: 16.2190 | Confidence: 0.7702 | Interest: 0.022882
+Body mass index 30+ - obesity (finding), Protracted diarrhea -> Bleeding from anus | Standardized Lift: 0.4918 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001875
+Body mass index 30+ - obesity (finding), Cholelithiasis -> Acute Cholecystitis | Standardized Lift: 0.4908 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001130
+Prediabetes, Cholelithiasis -> Acute Cholecystitis | Standardized Lift: 0.4889 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001126
+Anemia (disorder), Bleeding from anus -> Secondary malignant neoplasm of colon | Standardized Lift: 0.4874 | Lift: 275.8674 | Confidence: 0.4883 | Interest: 0.001330
+Protracted diarrhea, Anemia (disorder) -> Secondary malignant neoplasm of colon | Standardized Lift: 0.4874 | Lift: 275.8674 | Confidence: 0.4883 | Interest: 0.001330
+Body mass index 30+ - obesity (finding), Non-small cell lung cancer (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.4845 | Lift: 90.7680 | Confidence: 0.9995 | Interest: 0.005306
+Suspected lung cancer (situation), Body mass index 30+ - obesity (finding) -> Non-small cell lung cancer (disorder) | Standardized Lift: 0.4840 | Lift: 76.2128 | Confidence: 0.8395 | Interest: 0.005298
+Suspected lung cancer (situation), Body mass index 30+ - obesity (finding) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.4840 | Lift: 76.2000 | Confidence: 0.8391 | Interest: 0.005295
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Anemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.4705 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.008245
+Acute viral pharyngitis (disorder), Protracted diarrhea -> Bleeding from anus | Standardized Lift: 0.4651 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001774
+Acute viral pharyngitis (disorder), Small cell carcinoma of lung (disorder) -> Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | Standardized Lift: 0.4633 | Lift: 514.7079 | Confidence: 1.0000 | Interest: 0.000899
+Bleeding from anus -> Secondary malignant neoplasm of colon | Standardized Lift: 0.4624 | Lift: 261.7770 | Confidence: 0.4634 | Interest: 0.001763
+Protracted diarrhea -> Secondary malignant neoplasm of colon | Standardized Lift: 0.4624 | Lift: 261.7770 | Confidence: 0.4634 | Interest: 0.001763
+Protracted diarrhea, Bleeding from anus -> Secondary malignant neoplasm of colon | Standardized Lift: 0.4624 | Lift: 261.7770 | Confidence: 0.4634 | Interest: 0.001763
+Acute viral pharyngitis (disorder), Cholelithiasis -> Acute Cholecystitis | Standardized Lift: 0.4612 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001062
+Viral sinusitis (disorder), Bleeding from anus -> Secondary malignant neoplasm of colon | Standardized Lift: 0.4605 | Lift: 260.6712 | Confidence: 0.4614 | Interest: 0.001168
+Protracted diarrhea, Viral sinusitis (disorder) -> Secondary malignant neoplasm of colon | Standardized Lift: 0.4605 | Lift: 260.6712 | Confidence: 0.4614 | Interest: 0.001168
+Metabolic syndrome X (disorder), Anemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4585 | Lift: 15.6070 | Confidence: 0.4749 | Interest: 0.023047
+Metabolic syndrome X (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.4583 | Lift: 15.6008 | Confidence: 0.4747 | Interest: 0.028480
+Metabolic syndrome X (disorder), Viral sinusitis (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4579 | Lift: 15.5884 | Confidence: 0.4744 | Interest: 0.019046
+Metabolic syndrome X (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4570 | Lift: 15.5599 | Confidence: 0.4735 | Interest: 0.028475
+Metabolic syndrome X (disorder), Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4570 | Lift: 15.5599 | Confidence: 0.4735 | Interest: 0.028475
+Prediabetes, Protracted diarrhea -> Bleeding from anus | Standardized Lift: 0.4565 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001741
+Diabetic renal disease (disorder), Acute viral pharyngitis (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.4558 | Lift: 33.4725 | Confidence: 0.9346 | Interest: 0.012550
+Neoplasm of prostate, Acute viral pharyngitis (disorder) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.4545 | Lift: 40.0471 | Confidence: 0.9117 | Interest: 0.010227
+Acute viral pharyngitis (disorder), Non-small cell lung cancer (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.4541 | Lift: 90.7806 | Confidence: 0.9997 | Interest: 0.004976
+Suspected lung cancer (situation), Acute viral pharyngitis (disorder) -> Non-small cell lung cancer (disorder) | Standardized Lift: 0.4537 | Lift: 76.9202 | Confidence: 0.8473 | Interest: 0.004967
+Suspected lung cancer (situation), Acute viral pharyngitis (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.4536 | Lift: 76.9180 | Confidence: 0.8470 | Interest: 0.004966
+Neoplasm of prostate, Body mass index 30+ - obesity (finding) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.4534 | Lift: 39.9068 | Confidence: 0.9085 | Interest: 0.010203
+Impacted molars, Viral sinusitis (disorder) -> Drug overdose | Standardized Lift: 0.4533 | Lift: 14.8660 | Confidence: 0.6855 | Interest: 0.020244
+Chronic intractable migraine without aura, Viral sinusitis (disorder) -> Drug overdose | Standardized Lift: 0.4527 | Lift: 14.8828 | Confidence: 0.6863 | Interest: 0.020218
+Acute viral pharyngitis (disorder), Cardiac Arrest -> History of cardiac arrest (situation) | Standardized Lift: 0.4519 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.016558
+Hypertriglyceridemia (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.4510 | Lift: 15.3710 | Confidence: 0.4678 | Interest: 0.028451
+Acute viral pharyngitis (disorder), Myocardial Infarction -> History of myocardial infarction (situation) | Standardized Lift: 0.4507 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.009512
+Diabetic renal disease (disorder) -> Metabolic syndrome X (disorder) | Standardized Lift: 0.4481 | Lift: 15.5388 | Confidence: 0.9986 | Interest: 0.027936
+Anemia (disorder), Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4480 | Lift: 15.2749 | Confidence: 0.4648 | Interest: 0.023013
+Hypertriglyceridemia (disorder), Viral sinusitis (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4478 | Lift: 15.2674 | Confidence: 0.4646 | Interest: 0.019018
+Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4467 | Lift: 15.2329 | Confidence: 0.4635 | Interest: 0.028433
+Acute viral pharyngitis (disorder), History of appendectomy -> Appendicitis | Standardized Lift: 0.4441 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.020254
+Anemia (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.4437 | Lift: 15.1366 | Confidence: 0.4606 | Interest: 0.022998
+Acute viral pharyngitis (disorder), Metabolic syndrome X (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4418 | Lift: 15.5307 | Confidence: 0.4726 | Interest: 0.013047
+Acute viral pharyngitis (disorder), Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4414 | Lift: 15.1987 | Confidence: 0.4625 | Interest: 0.013027
+Diabetes, Viral sinusitis (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.4401 | Lift: 15.0215 | Confidence: 0.4571 | Interest: 0.018996
+Viral sinusitis (disorder), Drug overdose -> Chronic pain | Standardized Lift: 0.4399 | Lift: 14.9054 | Confidence: 0.7079 | Interest: 0.020249
+Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.4386 | Lift: 14.9740 | Confidence: 0.4557 | Interest: 0.028399
+Diabetic renal disease (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.4384 | Lift: 15.2245 | Confidence: 0.9995 | Interest: 0.027919
+Diabetic renal disease (disorder), Metabolic syndrome X (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.4380 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.027897
+Acute viral pharyngitis (disorder), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.4380 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001836
+Acute viral pharyngitis (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.4376 | Lift: 14.9435 | Confidence: 0.4547 | Interest: 0.013011
+Metabolic syndrome X (disorder), Hypertension -> Hyperglycemia (disorder) | Standardized Lift: 0.4375 | Lift: 14.9394 | Confidence: 0.4546 | Interest: 0.016424
+Cholelithiasis, Anemia (disorder) -> Acute Cholecystitis | Standardized Lift: 0.4342 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.001000
+Acute viral pharyngitis (disorder), Metabolic syndrome X (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.4327 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.027569
+Hypertriglyceridemia (disorder), Hypertension -> Hyperglycemia (disorder) | Standardized Lift: 0.4308 | Lift: 14.7252 | Confidence: 0.4481 | Interest: 0.016407
+Diabetic renal disease (disorder) -> Diabetes | Standardized Lift: 0.4307 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.027901
+Diabetic renal disease (disorder), Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.4304 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.027886
+Acute viral pharyngitis (disorder), Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.4303 | Lift: 14.8423 | Confidence: 0.9912 | Interest: 0.027871
+Diabetic renal disease (disorder), Metabolic syndrome X (disorder) -> Diabetes | Standardized Lift: 0.4301 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.027863
+Diabetes, Hypertension -> Hyperglycemia (disorder) | Standardized Lift: 0.4246 | Lift: 14.5287 | Confidence: 0.4421 | Interest: 0.016391
+Acute viral pharyngitis (disorder), Metabolic syndrome X (disorder) -> Diabetes | Standardized Lift: 0.4236 | Lift: 14.9332 | Confidence: 0.9973 | Interest: 0.027455
+Acute viral pharyngitis (disorder), Metabolic syndrome X (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.4216 | Lift: 15.6787 | Confidence: 0.4378 | Interest: 0.012093
+Metabolic syndrome X (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.4176 | Lift: 15.5387 | Confidence: 0.4339 | Interest: 0.026089
+Metabolic syndrome X (disorder), Hypertriglyceridemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.4176 | Lift: 15.5387 | Confidence: 0.4339 | Interest: 0.026089
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.4135 | Lift: 112.1465 | Confidence: 0.4157 | Interest: 0.002333
+Metabolic syndrome X (disorder), Anemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.4125 | Lift: 15.3616 | Confidence: 0.4289 | Interest: 0.020791
+Acute viral pharyngitis (disorder), Hypertriglyceridemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.4123 | Lift: 15.3559 | Confidence: 0.4288 | Interest: 0.012085
+Seizure disorder, Acute viral pharyngitis (disorder) -> History of single seizure (situation) | Standardized Lift: 0.4110 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.014923
+Acute viral pharyngitis (disorder), History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.4102 | Lift: 27.0666 | Confidence: 0.5226 | Interest: 0.007799
+Seizure disorder, Acute viral pharyngitis (disorder) -> Epilepsy | Standardized Lift: 0.4102 | Lift: 27.0666 | Confidence: 0.5226 | Interest: 0.007799
+Hypertriglyceridemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.4086 | Lift: 15.2244 | Confidence: 0.4251 | Interest: 0.026073
+Myocardial Infarction, Anemia (disorder) -> History of myocardial infarction (situation) | Standardized Lift: 0.4056 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.008569
+Body mass index 30+ - obesity (finding), Cardiac Arrest -> History of cardiac arrest (situation) | Standardized Lift: 0.4044 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.014844
+Anemia (disorder), Hypertriglyceridemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.4034 | Lift: 15.0458 | Confidence: 0.4201 | Interest: 0.020776
+Chronic kidney disease stage 1 (disorder) -> Diabetes | Standardized Lift: 0.4014 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.026057
+Diabetic renal disease (disorder), Chronic kidney disease stage 1 (disorder) -> Diabetes | Standardized Lift: 0.4014 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.026057
+Body mass index 30+ - obesity (finding), History of appendectomy -> Appendicitis | Standardized Lift: 0.4013 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.018336
+Hypertriglyceridemia (disorder), Chronic kidney disease stage 1 (disorder) -> Diabetes | Standardized Lift: 0.4011 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.026042
+Metabolic syndrome X (disorder), Chronic kidney disease stage 1 (disorder) -> Diabetes | Standardized Lift: 0.4008 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.026021
+Prediabetes, Cardiac Arrest -> History of cardiac arrest (situation) | Standardized Lift: 0.3985 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.014632
+Acute bronchitis (disorder), Protracted diarrhea -> Bleeding from anus | Standardized Lift: 0.3982 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001519
+Acute bronchitis (disorder), Non-small cell lung cancer (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.3973 | Lift: 90.7940 | Confidence: 0.9998 | Interest: 0.004356
+Acute bronchitis (disorder), Suspected lung cancer (situation) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.3968 | Lift: 76.8651 | Confidence: 0.8464 | Interest: 0.004347
+Acute bronchitis (disorder), Suspected lung cancer (situation) -> Non-small cell lung cancer (disorder) | Standardized Lift: 0.3968 | Lift: 76.8561 | Confidence: 0.8466 | Interest: 0.004348
+Acute bronchitis (disorder), Myocardial Infarction -> History of myocardial infarction (situation) | Standardized Lift: 0.3953 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.008353
+Anemia (disorder), Cardiac Arrest -> History of cardiac arrest (situation) | Standardized Lift: 0.3941 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.014471
+Acute bronchitis (disorder), Cardiac Arrest -> History of cardiac arrest (situation) | Standardized Lift: 0.3930 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.014432
+Prediabetes, History of appendectomy -> Appendicitis | Standardized Lift: 0.3929 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.017962
+Acute bronchitis (disorder), Diabetic renal disease (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.3928 | Lift: 33.4576 | Confidence: 0.9342 | Interest: 0.010835
+Acute bronchitis (disorder), Cholelithiasis -> Acute Cholecystitis | Standardized Lift: 0.3926 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.000904
+Acute bronchitis (disorder), Neoplasm of prostate -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.3926 | Lift: 40.0626 | Confidence: 0.9121 | Interest: 0.008848
+Anemia (disorder), History of appendectomy -> Appendicitis | Standardized Lift: 0.3916 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.017902
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Prediabetes -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.3905 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.006853
+Acute bronchitis (disorder), History of appendectomy -> Appendicitis | Standardized Lift: 0.3901 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.017833
+Acute bronchitis (disorder), Metabolic syndrome X (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3860 | Lift: 15.6401 | Confidence: 0.4759 | Interest: 0.011445
+Acute bronchitis (disorder), Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3857 | Lift: 15.3202 | Confidence: 0.4662 | Interest: 0.011429
+Acute bronchitis (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.3854 | Lift: 15.0764 | Confidence: 0.4588 | Interest: 0.011416
+Acute bronchitis (disorder), Metabolic syndrome X (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.3838 | Lift: 15.5537 | Confidence: 0.4343 | Interest: 0.010440
+Acute bronchitis (disorder), Hypertriglyceridemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.3836 | Lift: 15.2426 | Confidence: 0.4256 | Interest: 0.010430
+Metabolic syndrome X (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3827 | Lift: 17.2637 | Confidence: 0.5253 | Interest: 0.011377
+Hypertriglyceridemia (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3826 | Lift: 17.1920 | Confidence: 0.5232 | Interest: 0.011374
+Neuropathy due to type 2 diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3826 | Lift: 17.1554 | Confidence: 0.5221 | Interest: 0.011373
+Neuropathy due to type 2 diabetes mellitus (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.3826 | Lift: 17.1554 | Confidence: 0.5221 | Interest: 0.011373
+Acute bronchitis (disorder), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3812 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001598
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Diabetes -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Hypertriglyceridemia (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Metabolic syndrome X (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3789 | Lift: 145.1507 | Confidence: 0.5381 | Interest: 0.001401
+Chronic kidney disease stage 2 (disorder), Hyperglycemia (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3786 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001587
+Miscarriage in first trimester, Cholelithiasis -> Acute Cholecystitis | Standardized Lift: 0.3754 | Lift: 433.8748 | Confidence: 1.0000 | Interest: 0.000864
+Acute bronchitis (disorder), Metabolic syndrome X (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.3753 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.024004
+Body mass index 30+ - obesity (finding), Metabolic syndrome X (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3746 | Lift: 22.7593 | Confidence: 0.6926 | Interest: 0.011205
+Body mass index 30+ - obesity (finding), Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3746 | Lift: 22.7593 | Confidence: 0.6926 | Interest: 0.011205
+Body mass index 30+ - obesity (finding), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.3744 | Lift: 22.4205 | Confidence: 0.6823 | Interest: 0.011197
+Acute bronchitis (disorder), Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.3727 | Lift: 14.8378 | Confidence: 0.9909 | Interest: 0.024237
+Prediabetes, Metabolic syndrome X (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3716 | Lift: 16.6902 | Confidence: 0.3861 | Interest: 0.014367
+Prediabetes, Neuropathy due to type 2 diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3715 | Lift: 24.8558 | Confidence: 0.7564 | Interest: 0.011131
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Hyperglycemia (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3714 | Lift: 100.8329 | Confidence: 0.3738 | Interest: 0.002055
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Prediabetes -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3704 | Lift: 100.5578 | Confidence: 0.3728 | Interest: 0.002574
+Prediabetes, Myocardial Infarction -> History of myocardial infarction (situation) | Standardized Lift: 0.3679 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.007779
+Prediabetes, Metabolic syndrome X (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.3675 | Lift: 13.7940 | Confidence: 0.3851 | Interest: 0.014140
+Acute bronchitis (disorder), Metabolic syndrome X (disorder) -> Diabetes | Standardized Lift: 0.3675 | Lift: 14.9367 | Confidence: 0.9975 | Interest: 0.023911
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Viral sinusitis (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3664 | Lift: 99.4753 | Confidence: 0.3687 | Interest: 0.002476
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Hypertension -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3662 | Lift: 99.4363 | Confidence: 0.3686 | Interest: 0.002247
+Prediabetes, Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3658 | Lift: 16.4464 | Confidence: 0.3805 | Interest: 0.014383
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Acute viral pharyngitis (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3656 | Lift: 99.2680 | Confidence: 0.3680 | Interest: 0.001668
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Metabolic syndrome X (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3648 | Lift: 99.0592 | Confidence: 0.3672 | Interest: 0.003669
+Anemia (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.3644 | Lift: 21.2585 | Confidence: 0.3757 | Interest: 0.006848
+Metabolic syndrome X (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.3644 | Lift: 21.2545 | Confidence: 0.3756 | Interest: 0.008228
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3642 | Lift: 98.8960 | Confidence: 0.3666 | Interest: 0.003669
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Hypertriglyceridemia (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3642 | Lift: 98.8960 | Confidence: 0.3666 | Interest: 0.003669
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3642 | Lift: 98.8960 | Confidence: 0.3666 | Interest: 0.003669
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Diabetes -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3642 | Lift: 98.8960 | Confidence: 0.3666 | Interest: 0.003669
+Hypertriglyceridemia (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.3631 | Lift: 21.1832 | Confidence: 0.3743 | Interest: 0.008233
+Neoplasm of prostate, Hypertension -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.3627 | Lift: 40.1060 | Confidence: 0.9130 | Interest: 0.008181
+Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.3623 | Lift: 21.1402 | Confidence: 0.3736 | Interest: 0.008233
+Acute bronchitis (disorder), Seizure disorder -> History of single seizure (situation) | Standardized Lift: 0.3614 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.013147
+Prediabetes, Hypertriglyceridemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.3610 | Lift: 13.5679 | Confidence: 0.3788 | Interest: 0.014124
+Acute bronchitis (disorder), History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.3603 | Lift: 27.0315 | Confidence: 0.5220 | Interest: 0.006862
+Acute bronchitis (disorder), Seizure disorder -> Epilepsy | Standardized Lift: 0.3603 | Lift: 27.0315 | Confidence: 0.5220 | Interest: 0.006862
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Anemia (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3596 | Lift: 97.6510 | Confidence: 0.3620 | Interest: 0.003007
+Neoplasm of prostate, Chronic sinusitis (disorder) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.3566 | Lift: 40.3238 | Confidence: 0.9180 | Interest: 0.008045
+Body mass index 30+ - obesity (finding), Myocardial Infarction -> History of myocardial infarction (situation) | Standardized Lift: 0.3551 | Lift: 46.9187 | Confidence: 1.0000 | Interest: 0.007509
+Acute bronchitis (disorder), Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3543 | Lift: 96.2330 | Confidence: 0.3567 | Interest: 0.001404
+Diabetic renal disease (disorder), Metabolic syndrome X (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3530 | Lift: 12.4707 | Confidence: 0.3795 | Interest: 0.010422
+Diabetic renal disease (disorder), Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3530 | Lift: 12.4606 | Confidence: 0.3792 | Interest: 0.010421
+Diabetic renal disease (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3530 | Lift: 12.4537 | Confidence: 0.3790 | Interest: 0.010421
+Diabetic renal disease (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.3530 | Lift: 12.4537 | Confidence: 0.3790 | Interest: 0.010421
+Metabolic syndrome X (disorder), Anemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3521 | Lift: 15.8665 | Confidence: 0.3671 | Interest: 0.017832
+Diabetic renal disease (disorder), Anemia (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.3468 | Lift: 15.2290 | Confidence: 0.9997 | Interest: 0.022224
+Anemia (disorder), Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3455 | Lift: 15.5874 | Confidence: 0.3606 | Interest: 0.017877
+Protracted diarrhea, Hypertension -> Bleeding from anus | Standardized Lift: 0.3449 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001316
+Acute bronchitis (disorder), Metabolic syndrome X (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3442 | Lift: 15.5341 | Confidence: 0.3594 | Interest: 0.008638
+Metabolic syndrome X (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3425 | Lift: 15.4623 | Confidence: 0.3577 | Interest: 0.021502
+Metabolic syndrome X (disorder), Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3425 | Lift: 15.4623 | Confidence: 0.3577 | Interest: 0.021502
+Acute viral pharyngitis (disorder), Metabolic syndrome X (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3407 | Lift: 15.3848 | Confidence: 0.3559 | Interest: 0.009819
+Diabetic renal disease (disorder), Anemia (disorder) -> Diabetes | Standardized Lift: 0.3406 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.022203
+Acute viral pharyngitis (disorder), Impacted molars -> Chronic pain | Standardized Lift: 0.3399 | Lift: 16.2243 | Confidence: 0.7705 | Interest: 0.015788
+Chronic intractable migraine without aura, Acute viral pharyngitis (disorder) -> Chronic pain | Standardized Lift: 0.3396 | Lift: 16.2891 | Confidence: 0.7736 | Interest: 0.015776
+Chronic intractable migraine without aura, Acute viral pharyngitis (disorder) -> Impacted molars | Standardized Lift: 0.3391 | Lift: 16.2662 | Confidence: 0.7743 | Interest: 0.015790
+Neoplasm of prostate, Hyperlipidemia -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.3387 | Lift: 40.6794 | Confidence: 0.9261 | Interest: 0.007644
+Acute bronchitis (disorder), Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3378 | Lift: 15.2647 | Confidence: 0.3531 | Interest: 0.008655
+Diabetic renal disease (disorder), Prediabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.3373 | Lift: 21.2080 | Confidence: 0.6454 | Interest: 0.010097
+Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3363 | Lift: 15.2005 | Confidence: 0.3516 | Interest: 0.021566
+Acute viral pharyngitis (disorder), Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3344 | Lift: 15.1191 | Confidence: 0.3498 | Interest: 0.009848
+Myocardial Infarction -> Coronary Heart Disease | Standardized Lift: 0.3324 | Lift: 16.2613 | Confidence: 0.9625 | Interest: 0.019253
+History of myocardial infarction (situation) -> Coronary Heart Disease | Standardized Lift: 0.3324 | Lift: 16.2613 | Confidence: 0.9625 | Interest: 0.019253
+Myocardial Infarction, History of myocardial infarction (situation) -> Coronary Heart Disease | Standardized Lift: 0.3324 | Lift: 16.2613 | Confidence: 0.9625 | Interest: 0.019253
+Prediabetes, Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.3318 | Lift: 22.3084 | Confidence: 0.3942 | Interest: 0.005774
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Chronic sinusitis (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3316 | Lift: 102.7964 | Confidence: 0.3811 | Interest: 0.001225
+Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.3309 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.021589
+Anemia (disorder), Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.3305 | Lift: 15.4382 | Confidence: 0.3455 | Interest: 0.012705
+Hypertriglyceridemia (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.3302 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.021543
+Metabolic syndrome X (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.3288 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.021453
+Neoplasm of prostate, Non-small cell lung cancer (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.3277 | Lift: 90.7471 | Confidence: 0.9993 | Interest: 0.003595
+Neoplasm of prostate, Suspected lung cancer (situation) -> Non-small cell lung cancer (disorder) | Standardized Lift: 0.3274 | Lift: 76.7494 | Confidence: 0.8454 | Interest: 0.003590
+Neoplasm of prostate, Suspected lung cancer (situation) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.3272 | Lift: 76.7187 | Confidence: 0.8448 | Interest: 0.003588
+Metabolic syndrome X (disorder), Chronic kidney disease stage 1 (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3256 | Lift: 12.3527 | Confidence: 0.3759 | Interest: 0.009633
+Hypertriglyceridemia (disorder), Chronic kidney disease stage 1 (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3256 | Lift: 12.3428 | Confidence: 0.3756 | Interest: 0.009632
+Chronic kidney disease stage 1 (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3256 | Lift: 12.3359 | Confidence: 0.3754 | Interest: 0.009632
+Chronic kidney disease stage 1 (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.3256 | Lift: 12.3359 | Confidence: 0.3754 | Interest: 0.009632
+Diabetic renal disease (disorder), Chronic kidney disease stage 1 (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3256 | Lift: 12.3359 | Confidence: 0.3754 | Interest: 0.009632
+Anemia (disorder), Chronic kidney disease stage 1 (disorder) -> Diabetes | Standardized Lift: 0.3182 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.020774
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.3166 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.005563
+Anemia (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3148 | Lift: 17.1416 | Confidence: 0.5216 | Interest: 0.009396
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Miscarriage in first trimester -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3128 | Lift: 107.9235 | Confidence: 0.4001 | Interest: 0.001156
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Anemia (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3117 | Lift: 144.7382 | Confidence: 0.5365 | Interest: 0.001153
+Prediabetes, Chronic kidney disease stage 1 (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.3108 | Lift: 21.0598 | Confidence: 0.6409 | Interest: 0.009314
+Non-small cell lung cancer (disorder), Chronic sinusitis (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.3095 | Lift: 90.7890 | Confidence: 0.9997 | Interest: 0.003397
+Suspected lung cancer (situation), Chronic sinusitis (disorder) -> Non-small cell carcinoma of lung  TNM stage 1 (disorder) | Standardized Lift: 0.3091 | Lift: 76.7739 | Confidence: 0.8454 | Interest: 0.003390
+Chronic sinusitis (disorder), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.3083 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001293
+Diabetic renal disease (disorder), Chronic sinusitis (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.3081 | Lift: 33.3703 | Confidence: 0.9317 | Interest: 0.008521
+Acute viral pharyngitis (disorder), Impacted molars -> Drug overdose | Standardized Lift: 0.3078 | Lift: 14.7900 | Confidence: 0.6820 | Interest: 0.013886
+Chronic intractable migraine without aura, Acute viral pharyngitis (disorder) -> Drug overdose | Standardized Lift: 0.3078 | Lift: 14.8566 | Confidence: 0.6851 | Interest: 0.013884
+Pathological fracture due to osteoporosis (disorder) -> Osteoporosis (disorder) | Standardized Lift: 0.3018 | Lift: 20.9323 | Confidence: 1.0000 | Interest: 0.014205
+Metabolic syndrome X (disorder), Chronic sinusitis (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.3010 | Lift: 16.4860 | Confidence: 0.4603 | Interest: 0.008244
+Hypertriglyceridemia (disorder), Chronic sinusitis (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.3009 | Lift: 16.2220 | Confidence: 0.4529 | Interest: 0.008238
+Protracted diarrhea, Malignant tumor of colon -> Bleeding from anus | Standardized Lift: 0.3000 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001145
+Acute viral pharyngitis (disorder), Drug overdose -> Chronic pain | Standardized Lift: 0.2998 | Lift: 14.9211 | Confidence: 0.7086 | Interest: 0.013938
+Acute bronchitis (disorder), Impacted molars -> Chronic pain | Standardized Lift: 0.2992 | Lift: 16.2455 | Confidence: 0.7715 | Interest: 0.013936
+Acute bronchitis (disorder), Chronic intractable migraine without aura -> Impacted molars | Standardized Lift: 0.2987 | Lift: 16.2972 | Confidence: 0.7758 | Interest: 0.013949
+Diabetic renal disease (disorder), Anemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2987 | Lift: 13.6143 | Confidence: 0.3149 | Interest: 0.006943
+Acute bronchitis (disorder), Chronic intractable migraine without aura -> Chronic pain | Standardized Lift: 0.2987 | Lift: 16.2962 | Confidence: 0.7739 | Interest: 0.013914
+Diabetic renal disease (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2978 | Lift: 33.9630 | Confidence: 0.9483 | Interest: 0.008241
+History of appendectomy, Hypertension -> Appendicitis | Standardized Lift: 0.2964 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.013613
+Diabetic renal disease (disorder), Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2961 | Lift: 86.8494 | Confidence: 0.3219 | Interest: 0.001094
+Metabolic syndrome X (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2940 | Lift: 17.4372 | Confidence: 0.5306 | Interest: 0.008790
+Hypertriglyceridemia (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2940 | Lift: 17.3765 | Confidence: 0.5288 | Interest: 0.008788
+Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2939 | Lift: 17.3400 | Confidence: 0.5277 | Interest: 0.008787
+Diabetic retinopathy associated with type II diabetes mellitus (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.2939 | Lift: 17.3400 | Confidence: 0.5277 | Interest: 0.008787
+Metabolic syndrome X (disorder), Chronic sinusitis (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2933 | Lift: 16.0912 | Confidence: 0.4897 | Interest: 0.008756
+Prediabetes, History of appendectomy -> Rupture of appendix | Standardized Lift: 0.2932 | Lift: 21.7843 | Confidence: 0.3030 | Interest: 0.005447
+Hypertriglyceridemia (disorder), Chronic sinusitis (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2931 | Lift: 15.8273 | Confidence: 0.4816 | Interest: 0.008746
+Chronic sinusitis (disorder), Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.2930 | Lift: 15.7341 | Confidence: 0.4788 | Interest: 0.008743
+Chronic sinusitis (disorder), Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2925 | Lift: 13.7795 | Confidence: 0.3083 | Interest: 0.006933
+Anemia (disorder), History of appendectomy -> Rupture of appendix | Standardized Lift: 0.2912 | Lift: 21.6392 | Confidence: 0.3010 | Interest: 0.005391
+History of appendectomy, Viral sinusitis (disorder) -> Rupture of appendix | Standardized Lift: 0.2909 | Lift: 21.6223 | Confidence: 0.3008 | Interest: 0.008848
+Body mass index 30+ - obesity (finding), History of appendectomy -> Rupture of appendix | Standardized Lift: 0.2907 | Lift: 21.6090 | Confidence: 0.3006 | Interest: 0.005514
+History of appendectomy -> Rupture of appendix | Standardized Lift: 0.2887 | Lift: 21.4633 | Confidence: 0.2986 | Interest: 0.013263
+Rupture of appendix -> Appendicitis | Standardized Lift: 0.2887 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.013263
+History of appendectomy, Rupture of appendix -> Appendicitis | Standardized Lift: 0.2887 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.013263
+Acute viral pharyngitis (disorder), History of appendectomy -> Rupture of appendix | Standardized Lift: 0.2882 | Lift: 21.4275 | Confidence: 0.2981 | Interest: 0.006037
+Metabolic syndrome X (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2877 | Lift: 13.2259 | Confidence: 0.3693 | Interest: 0.007847
+Hypertriglyceridemia (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2877 | Lift: 13.1736 | Confidence: 0.3678 | Interest: 0.007846
+Neuropathy due to type 2 diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2876 | Lift: 13.1456 | Confidence: 0.3670 | Interest: 0.007845
+Acute bronchitis (disorder), Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2876 | Lift: 13.5634 | Confidence: 0.3035 | Interest: 0.008232
+Body mass index 30+ - obesity (finding), Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2872 | Lift: 13.5462 | Confidence: 0.3031 | Interest: 0.010829
+Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2867 | Lift: 13.5252 | Confidence: 0.3027 | Interest: 0.020722
+Diabetic renal disease (disorder), Anemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2867 | Lift: 12.7623 | Confidence: 0.3884 | Interest: 0.008516
+Prediabetes, Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2862 | Lift: 24.9624 | Confidence: 0.7596 | Interest: 0.008606
+Viral sinusitis (disorder), Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2862 | Lift: 13.5028 | Confidence: 0.3022 | Interest: 0.013786
+Prediabetes, Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2861 | Lift: 13.4975 | Confidence: 0.3020 | Interest: 0.010818
+Acute viral pharyngitis (disorder), Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2858 | Lift: 13.4862 | Confidence: 0.3018 | Interest: 0.009409
+Hypertension, Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2858 | Lift: 13.4856 | Confidence: 0.3018 | Interest: 0.006820
+Acute bronchitis (disorder), History of appendectomy -> Rupture of appendix | Standardized Lift: 0.2855 | Lift: 21.2384 | Confidence: 0.2954 | Interest: 0.005266
+Protracted diarrhea, Chronic sinusitis (disorder) -> Bleeding from anus | Standardized Lift: 0.2848 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001087
+Prediabetes, Metabolic syndrome X (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2847 | Lift: 16.8251 | Confidence: 0.2973 | Interest: 0.011069
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Chronic kidney disease stage 1 (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2836 | Lift: 86.5829 | Confidence: 0.3210 | Interest: 0.001048
+Diabetic renal disease (disorder), Metabolic syndrome X (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2833 | Lift: 12.9611 | Confidence: 0.2998 | Interest: 0.008262
+Diabetic renal disease (disorder), Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2831 | Lift: 12.9531 | Confidence: 0.2997 | Interest: 0.008263
+Diabetic renal disease (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2829 | Lift: 12.9460 | Confidence: 0.2995 | Interest: 0.008262
+Hyperlipidemia, Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2804 | Lift: 14.1568 | Confidence: 0.3168 | Interest: 0.006143
+Prediabetes, Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2802 | Lift: 16.5759 | Confidence: 0.2929 | Interest: 0.011079
+Miscarriage in first trimester, Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2795 | Lift: 14.0143 | Confidence: 0.3136 | Interest: 0.006123
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Hyperlipidemia -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2792 | Lift: 107.1258 | Confidence: 0.3971 | Interest: 0.001032
+Chronic intractable migraine without aura, Body mass index 30+ - obesity (finding) -> Drug overdose | Standardized Lift: 0.2757 | Lift: 16.0440 | Confidence: 0.7399 | Interest: 0.012485
+Body mass index 30+ - obesity (finding), Impacted molars -> Drug overdose | Standardized Lift: 0.2753 | Lift: 15.9603 | Confidence: 0.7360 | Interest: 0.012464
+Metabolic syndrome X (disorder), Chronic sinusitis (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2750 | Lift: 16.2894 | Confidence: 0.2879 | Interest: 0.005151
+Closed fracture of hip -> Pathological fracture due to osteoporosis (disorder) | Standardized Lift: 0.2745 | Lift: 24.9945 | Confidence: 0.3729 | Interest: 0.004048
+Hypertriglyceridemia (disorder), Chronic sinusitis (disorder) -> Diabetes | Standardized Lift: 0.2732 | Lift: 14.8191 | Confidence: 0.9897 | Interest: 0.017889
+Chronic intractable migraine without aura, Body mass index 30+ - obesity (finding) -> Chronic pain | Standardized Lift: 0.2728 | Lift: 15.8866 | Confidence: 0.7545 | Interest: 0.012723
+Anemia (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.2725 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.017850
+Body mass index 30+ - obesity (finding), Impacted molars -> Chronic pain | Standardized Lift: 0.2723 | Lift: 15.7972 | Confidence: 0.7502 | Interest: 0.012696
+Chronic intractable migraine without aura, Body mass index 30+ - obesity (finding) -> Impacted molars | Standardized Lift: 0.2715 | Lift: 15.8136 | Confidence: 0.7528 | Interest: 0.012691
+Hypertriglyceridemia (disorder), Chronic sinusitis (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2711 | Lift: 16.0702 | Confidence: 0.2840 | Interest: 0.005162
+Prediabetes, Acute viral pharyngitis (disorder) -> Anemia (disorder) | Standardized Lift: 0.2709 | Lift: 2.6621 | Confidence: 0.8173 | Interest: 0.071511
+Metabolic syndrome X (disorder), Chronic sinusitis (disorder) -> Diabetes | Standardized Lift: 0.2707 | Lift: 14.9292 | Confidence: 0.9970 | Interest: 0.017735
+Acute bronchitis (disorder), Impacted molars -> Drug overdose | Standardized Lift: 0.2704 | Lift: 14.7767 | Confidence: 0.6814 | Interest: 0.012229
+Neuropathy due to type 2 diabetes mellitus (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2697 | Lift: 73.4826 | Confidence: 0.2724 | Interest: 0.002322
+Acute bronchitis (disorder), Chronic intractable migraine without aura -> Drug overdose | Standardized Lift: 0.2691 | Lift: 14.7783 | Confidence: 0.6815 | Interest: 0.012171
+Miscarriage in first trimester, Protracted diarrhea -> Bleeding from anus | Standardized Lift: 0.2686 | Lift: 261.7770 | Confidence: 1.0000 | Interest: 0.001025
+Metabolic syndrome X (disorder), Anemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2681 | Lift: 15.9058 | Confidence: 0.2811 | Interest: 0.013657
+Chronic intractable migraine without aura, Prediabetes -> Drug overdose | Standardized Lift: 0.2662 | Lift: 15.8627 | Confidence: 0.7315 | Interest: 0.012059
+Body mass index 30+ - obesity (finding), Drug overdose -> Chronic pain | Standardized Lift: 0.2660 | Lift: 14.5890 | Confidence: 0.6928 | Interest: 0.012391
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Prediabetes -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2650 | Lift: 143.0839 | Confidence: 0.5304 | Interest: 0.000981
+Prediabetes, Impacted molars -> Drug overdose | Standardized Lift: 0.2650 | Lift: 15.9395 | Confidence: 0.7351 | Interest: 0.012007
+Anemia (disorder), Chronic kidney disease stage 1 (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2648 | Lift: 12.6325 | Confidence: 0.3844 | Interest: 0.007880
+Chronic intractable migraine without aura, Prediabetes -> Chronic pain | Standardized Lift: 0.2641 | Lift: 15.7497 | Confidence: 0.7480 | Interest: 0.012324
+Prediabetes, Impacted molars -> Chronic pain | Standardized Lift: 0.2633 | Lift: 15.8464 | Confidence: 0.7526 | Interest: 0.012288
+Anemia (disorder), Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2631 | Lift: 15.6227 | Confidence: 0.2761 | Interest: 0.013689
+Malignant tumor of colon, Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2629 | Lift: 44.6890 | Confidence: 1.0000 | Interest: 0.005848
+Chronic intractable migraine without aura, Prediabetes -> Impacted molars | Standardized Lift: 0.2628 | Lift: 15.6731 | Confidence: 0.7461 | Interest: 0.012289
+Malignant tumor of colon -> Recurrent rectal polyp | Standardized Lift: 0.2620 | Lift: 37.4880 | Confidence: 0.8389 | Interest: 0.005822
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2616 | Lift: 155.6518 | Confidence: 0.5770 | Interest: 0.000968
+Acute bronchitis (disorder), Drug overdose -> Chronic pain | Standardized Lift: 0.2612 | Lift: 14.7913 | Confidence: 0.7024 | Interest: 0.012175
+Chronic intractable migraine without aura, Anemia (disorder) -> Chronic pain | Standardized Lift: 0.2609 | Lift: 15.8289 | Confidence: 0.7517 | Interest: 0.012178
+Chronic sinusitis (disorder), Cardiac Arrest -> History of cardiac arrest (situation) | Standardized Lift: 0.2608 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.009625
+Impacted molars, Anemia (disorder) -> Chronic pain | Standardized Lift: 0.2604 | Lift: 15.8990 | Confidence: 0.7551 | Interest: 0.012155
+Metabolic syndrome X (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2604 | Lift: 15.4732 | Confidence: 0.2734 | Interest: 0.016437
+Metabolic syndrome X (disorder), Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2604 | Lift: 15.4732 | Confidence: 0.2734 | Interest: 0.016437
+Seizure disorder, Body mass index 30+ - obesity (finding) -> Epilepsy | Standardized Lift: 0.2603 | Lift: 27.2305 | Confidence: 0.5258 | Interest: 0.004977
+Body mass index 30+ - obesity (finding), History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.2603 | Lift: 27.2305 | Confidence: 0.5258 | Interest: 0.004977
+Chronic intractable migraine without aura, Anemia (disorder) -> Drug overdose | Standardized Lift: 0.2602 | Lift: 15.7875 | Confidence: 0.7280 | Interest: 0.011793
+Impacted molars, Anemia (disorder) -> Drug overdose | Standardized Lift: 0.2599 | Lift: 15.8705 | Confidence: 0.7319 | Interest: 0.011781
+Seizure disorder, Body mass index 30+ - obesity (finding) -> History of single seizure (situation) | Standardized Lift: 0.2592 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.009464
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder) -> Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2573 | Lift: 98.8960 | Confidence: 1.0000 | Interest: 0.002595
+Chronic sinusitis (disorder), History of appendectomy -> Rupture of appendix | Standardized Lift: 0.2571 | Lift: 21.6329 | Confidence: 0.3009 | Interest: 0.003533
+Prediabetes, Drug overdose -> Chronic pain | Standardized Lift: 0.2571 | Lift: 14.5053 | Confidence: 0.6889 | Interest: 0.011981
+Acute bronchitis (disorder), Metabolic syndrome X (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2561 | Lift: 15.2380 | Confidence: 0.2693 | Interest: 0.006464
+Acute viral pharyngitis (disorder), Metabolic syndrome X (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2561 | Lift: 15.2378 | Confidence: 0.2693 | Interest: 0.007424
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Acute viral pharyngitis (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2558 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.004499
+Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2555 | Lift: 15.2009 | Confidence: 0.2686 | Interest: 0.016474
+Miscarriage in first trimester, Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2550 | Lift: 17.6358 | Confidence: 0.3116 | Interest: 0.004439
+Chronic sinusitis (disorder), History of appendectomy -> Appendicitis | Standardized Lift: 0.2550 | Lift: 21.4633 | Confidence: 1.0000 | Interest: 0.011736
+Miscarriage in first trimester, Metabolic syndrome X (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2550 | Lift: 17.9054 | Confidence: 0.3164 | Interest: 0.004439
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder), Viral sinusitis (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2532 | Lift: 145.5472 | Confidence: 0.5395 | Interest: 0.000937
+Neuropathy due to type 2 diabetes mellitus (disorder), Viral sinusitis (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2532 | Lift: 17.0876 | Confidence: 0.5200 | Interest: 0.007585
+Chronic kidney disease stage 2 (disorder), Hyperlipidemia -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2531 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.001062
+Miscarriage in first trimester, Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2519 | Lift: 17.4288 | Confidence: 0.4032 | Interest: 0.005738
+Anemia (disorder), History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.2516 | Lift: 27.2044 | Confidence: 0.5253 | Interest: 0.004812
+Seizure disorder, Anemia (disorder) -> Epilepsy | Standardized Lift: 0.2516 | Lift: 27.2044 | Confidence: 0.5253 | Interest: 0.004812
+Miscarriage in first trimester, Metabolic syndrome X (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2515 | Lift: 17.6789 | Confidence: 0.4090 | Interest: 0.005733
+Acute bronchitis (disorder), Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2515 | Lift: 14.9803 | Confidence: 0.2647 | Interest: 0.006479
+Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.2514 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.016491
+Anemia (disorder), Drug overdose -> Chronic pain | Standardized Lift: 0.2513 | Lift: 14.5896 | Confidence: 0.6929 | Interest: 0.011717
+Acute viral pharyngitis (disorder), Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2511 | Lift: 14.9607 | Confidence: 0.2644 | Interest: 0.007438
+Hypertriglyceridemia (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.2508 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.016457
+Seizure disorder, Anemia (disorder) -> History of single seizure (situation) | Standardized Lift: 0.2507 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.009160
+Miscarriage in first trimester -> Normal pregnancy | Standardized Lift: 0.2503 | Lift: 2.1847 | Confidence: 0.3876 | Interest: 0.036661
+Metabolic syndrome X (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.2500 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.016399
+Seizure disorder, Prediabetes -> History of single seizure (situation) | Standardized Lift: 0.2474 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.009038
+Seizure disorder, Prediabetes -> Epilepsy | Standardized Lift: 0.2473 | Lift: 27.1076 | Confidence: 0.5234 | Interest: 0.004731
+Prediabetes, History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.2473 | Lift: 27.1076 | Confidence: 0.5234 | Interest: 0.004731
+Pneumonia -> Alzheimer's disease (disorder) | Standardized Lift: 0.2463 | Lift: 26.2707 | Confidence: 0.7885 | Interest: 0.007323
+Diabetic retinopathy associated with type II diabetes mellitus (disorder), Hyperlipidemia -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2460 | Lift: 67.1083 | Confidence: 0.2488 | Interest: 0.001026
+Body mass index 30+ - obesity (finding), Metabolic syndrome X (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.2450 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.015811
+Miscarriage in first trimester, Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2449 | Lift: 66.8117 | Confidence: 0.2477 | Interest: 0.001150
+Anemia (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2431 | Lift: 17.3583 | Confidence: 0.5282 | Interest: 0.007290
+Diabetic renal disease (disorder), Prediabetes -> Metabolic syndrome X (disorder) | Standardized Lift: 0.2428 | Lift: 15.5476 | Confidence: 0.9992 | Interest: 0.015351
+Miscarriage in first trimester, Metabolic syndrome X (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2409 | Lift: 16.9705 | Confidence: 0.5164 | Interest: 0.007221
+Miscarriage in first trimester, Hypertriglyceridemia (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2407 | Lift: 16.6996 | Confidence: 0.5082 | Interest: 0.007213
+Miscarriage in first trimester, Diabetes -> Hyperglycemia (disorder) | Standardized Lift: 0.2406 | Lift: 16.5999 | Confidence: 0.5051 | Interest: 0.007211
+Neoplasm of prostate, Hypertriglyceridemia (disorder) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2401 | Lift: 40.0687 | Confidence: 0.9122 | Interest: 0.005434
+Anemia (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2399 | Lift: 13.3025 | Confidence: 0.3714 | Interest: 0.006570
+Neoplasm of prostate, Metabolic syndrome X (disorder) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2388 | Lift: 40.0552 | Confidence: 0.9119 | Interest: 0.005404
+Body mass index 30+ - obesity (finding), Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.2380 | Lift: 14.8249 | Confidence: 0.9900 | Interest: 0.015624
+Body mass index 30+ - obesity (finding), Metabolic syndrome X (disorder) -> Diabetes | Standardized Lift: 0.2380 | Lift: 14.8249 | Confidence: 0.9900 | Interest: 0.015624
+Neoplasm of prostate, Diabetes -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2380 | Lift: 40.0425 | Confidence: 0.9116 | Interest: 0.005385
+Diabetic renal disease (disorder), Prediabetes -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.2374 | Lift: 15.2241 | Confidence: 0.9994 | Interest: 0.015331
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2371 | Lift: 24.2079 | Confidence: 0.5600 | Interest: 0.005429
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2371 | Lift: 24.2079 | Confidence: 0.5600 | Interest: 0.005429
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder), Metabolic syndrome X (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2370 | Lift: 24.2498 | Confidence: 0.5610 | Interest: 0.005428
+Overlapping malignant neoplasm of colon -> Recurrent rectal polyp | Standardized Lift: 0.2351 | Lift: 34.1484 | Confidence: 0.7641 | Interest: 0.005224
+Overlapping malignant neoplasm of colon, Polyp of colon -> Recurrent rectal polyp | Standardized Lift: 0.2351 | Lift: 34.1484 | Confidence: 0.7641 | Interest: 0.005224
+Diabetic renal disease (disorder), Viral sinusitis (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2350 | Lift: 12.5424 | Confidence: 0.3817 | Interest: 0.007007
+Neoplasm of prostate, Smokes tobacco daily -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2340 | Lift: 40.2041 | Confidence: 0.9153 | Interest: 0.005296
+Diabetic renal disease (disorder), Prediabetes -> Diabetes | Standardized Lift: 0.2333 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.015322
+Body mass index 30+ - obesity (finding), Chronic kidney disease stage 2 (disorder) -> Microalbuminuria due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2315 | Lift: 238.1358 | Confidence: 1.0000 | Interest: 0.000971
+Acute bronchitis (disorder), Prediabetes -> Anemia (disorder) | Standardized Lift: 0.2313 | Lift: 2.6665 | Confidence: 0.8186 | Interest: 0.062364
+Smokes tobacco daily -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2294 | Lift: 20.1020 | Confidence: 0.4576 | Interest: 0.005161
+Diabetic renal disease (disorder), Body mass index 30+ - obesity (finding) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2291 | Lift: 33.3637 | Confidence: 0.9316 | Interest: 0.006353
+Neoplasm of prostate -> Smokes tobacco daily | Standardized Lift: 0.2281 | Lift: 19.9899 | Confidence: 0.2372 | Interest: 0.005637
+Neoplasm of prostate, Body mass index 30+ - obesity (finding) -> Smokes tobacco daily | Standardized Lift: 0.2270 | Lift: 20.4807 | Confidence: 0.2431 | Interest: 0.002663
+Neoplasm of prostate, Viral sinusitis (disorder) -> Smokes tobacco daily | Standardized Lift: 0.2259 | Lift: 19.8122 | Confidence: 0.2351 | Interest: 0.003703
+Childhood asthma -> Atopic dermatitis | Standardized Lift: 0.2255 | Lift: 13.5387 | Confidence: 0.2392 | Interest: 0.004928
+Diabetic renal disease (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2250 | Lift: 34.0401 | Confidence: 0.9504 | Interest: 0.006239
+Diabetic renal disease (disorder), Anemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2248 | Lift: 13.4974 | Confidence: 0.2385 | Interest: 0.005254
+Neoplasm of prostate, Prediabetes -> Smokes tobacco daily | Standardized Lift: 0.2239 | Lift: 19.6412 | Confidence: 0.2331 | Interest: 0.003293
+Neoplasm of prostate, Anemia (disorder) -> Smokes tobacco daily | Standardized Lift: 0.2237 | Lift: 19.6229 | Confidence: 0.2329 | Interest: 0.003843
+Chronic intractable migraine without aura, Hypertension -> Chronic pain | Standardized Lift: 0.2226 | Lift: 16.1419 | Confidence: 0.7666 | Interest: 0.010420
+Impacted molars, Hypertension -> Chronic pain | Standardized Lift: 0.2223 | Lift: 16.0313 | Confidence: 0.7613 | Interest: 0.010403
+Acute bronchitis (disorder), Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2219 | Lift: 56.5887 | Confidence: 1.0000 | Interest: 0.003906
+Neoplasm of prostate, Diabetic renal disease (disorder) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2219 | Lift: 40.2103 | Confidence: 0.9154 | Interest: 0.005023
+Chronic sinusitis (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2215 | Lift: 60.5405 | Confidence: 0.2244 | Interest: 0.001217
+Body mass index 30+ - obesity (finding), Metabolic syndrome X (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2212 | Lift: 13.8514 | Confidence: 0.3867 | Interest: 0.006072
+Body mass index 30+ - obesity (finding), Hypertriglyceridemia (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2212 | Lift: 13.8514 | Confidence: 0.3867 | Interest: 0.006072
+Diabetic renal disease (disorder), Prediabetes -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2212 | Lift: 14.2499 | Confidence: 0.2518 | Interest: 0.003844
+Myocardial Infarction, Viral sinusitis (disorder) -> Coronary Heart Disease | Standardized Lift: 0.2202 | Lift: 16.2784 | Confidence: 0.9635 | Interest: 0.012848
+History of myocardial infarction (situation), Viral sinusitis (disorder) -> Coronary Heart Disease | Standardized Lift: 0.2202 | Lift: 16.2784 | Confidence: 0.9635 | Interest: 0.012848
+Diabetic renal disease (disorder), Prediabetes -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2199 | Lift: 14.1763 | Confidence: 0.3279 | Interest: 0.005005
+Diabetic retinopathy associated with type II diabetes mellitus (disorder), Hyperglycemia (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2197 | Lift: 60.0569 | Confidence: 0.2226 | Interest: 0.002041
+Neoplasm of prostate, Acute viral pharyngitis (disorder) -> Smokes tobacco daily | Standardized Lift: 0.2196 | Lift: 19.8663 | Confidence: 0.2358 | Interest: 0.002576
+Body mass index 30+ - obesity (finding), Metabolic syndrome X (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2195 | Lift: 13.7544 | Confidence: 0.3182 | Interest: 0.004993
+Body mass index 30+ - obesity (finding), Hypertriglyceridemia (disorder) -> Neuropathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2195 | Lift: 13.7544 | Confidence: 0.3182 | Interest: 0.004993
+Body mass index 30+ - obesity (finding), Metabolic syndrome X (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2193 | Lift: 13.7391 | Confidence: 0.2428 | Interest: 0.003810
+Body mass index 30+ - obesity (finding), Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2193 | Lift: 13.7391 | Confidence: 0.2428 | Interest: 0.003810
+Neuropathy due to type 2 diabetes mellitus (disorder), Hypertension -> Hyperglycemia (disorder) | Standardized Lift: 0.2182 | Lift: 16.5797 | Confidence: 0.5045 | Interest: 0.006549
+Prediabetes, Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.2176 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.014309
+Prediabetes, Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2174 | Lift: 59.4352 | Confidence: 0.2203 | Interest: 0.002557
+Chronic kidney disease stage 1 (disorder), Viral sinusitis (disorder) -> Hyperglycemia (disorder) | Standardized Lift: 0.2169 | Lift: 12.4207 | Confidence: 0.3780 | Interest: 0.006477
+Prediabetes, Chronic kidney disease stage 1 (disorder) -> Diabetes | Standardized Lift: 0.2165 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.014239
+Metabolic syndrome X (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2164 | Lift: 13.0992 | Confidence: 0.3657 | Interest: 0.005937
+Hypertriglyceridemia (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2164 | Lift: 13.0554 | Confidence: 0.3645 | Interest: 0.005936
+Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Chronic kidney disease stage 1 (disorder) | Standardized Lift: 0.2164 | Lift: 13.0279 | Confidence: 0.3638 | Interest: 0.005935
+Neoplasm of prostate, Coronary Heart Disease -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2159 | Lift: 41.7652 | Confidence: 0.9508 | Interest: 0.004890
+Diabetes, Hyperlipidemia -> Hyperglycemia (disorder) | Standardized Lift: 0.2153 | Lift: 16.9354 | Confidence: 0.5154 | Interest: 0.006465
+Metabolic syndrome X (disorder), Hyperlipidemia -> Hyperglycemia (disorder) | Standardized Lift: 0.2153 | Lift: 16.9124 | Confidence: 0.5147 | Interest: 0.006464
+Hypertriglyceridemia (disorder), Hyperlipidemia -> Hyperglycemia (disorder) | Standardized Lift: 0.2152 | Lift: 16.7541 | Confidence: 0.5098 | Interest: 0.006460
+Miscarriage in first trimester, Metabolic syndrome X (disorder) -> Hypertriglyceridemia (disorder) | Standardized Lift: 0.2147 | Lift: 15.2329 | Confidence: 1.0000 | Interest: 0.013882
+Acute viral pharyngitis (disorder), Neuropathy due to type 2 diabetes mellitus (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2144 | Lift: 21.0756 | Confidence: 0.3724 | Interest: 0.003749
+Seizure disorder, Hypertension -> Epilepsy | Standardized Lift: 0.2142 | Lift: 27.5903 | Confidence: 0.5327 | Interest: 0.004104
+Hypertension, History of single seizure (situation) -> Epilepsy | Standardized Lift: 0.2142 | Lift: 27.5903 | Confidence: 0.5327 | Interest: 0.004104
+Neoplasm of prostate, Atrial Fibrillation -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2142 | Lift: 42.1803 | Confidence: 0.9603 | Interest: 0.004850
+Diabetic renal disease (disorder), Metabolic syndrome X (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2126 | Lift: 12.8169 | Confidence: 0.2265 | Interest: 0.006235
+Diabetic renal disease (disorder), Hypertriglyceridemia (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2124 | Lift: 12.8081 | Confidence: 0.2263 | Interest: 0.006235
+Diabetic renal disease (disorder) -> Diabetic retinopathy associated with type II diabetes mellitus (disorder) | Standardized Lift: 0.2123 | Lift: 12.8011 | Confidence: 0.2262 | Interest: 0.006235
+Diabetic retinopathy associated with type II diabetes mellitus (disorder), Hypertension -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2121 | Lift: 57.9984 | Confidence: 0.2150 | Interest: 0.002230
+Miscarriage in first trimester, Hypertriglyceridemia (disorder) -> Diabetes | Standardized Lift: 0.2118 | Lift: 14.8172 | Confidence: 0.9895 | Interest: 0.013932
+Seizure disorder, Hypertension -> History of single seizure (situation) | Standardized Lift: 0.2104 | Lift: 27.1140 | Confidence: 1.0000 | Interest: 0.007698
+Miscarriage in first trimester, Metabolic syndrome X (disorder) -> Diabetes | Standardized Lift: 0.2101 | Lift: 14.9296 | Confidence: 0.9970 | Interest: 0.013821
+Neoplasm of prostate, Stroke -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2083 | Lift: 42.0258 | Confidence: 0.9567 | Interest: 0.004719
+Acute viral pharyngitis (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2081 | Lift: 56.9178 | Confidence: 0.2110 | Interest: 0.001656
+Diabetic retinopathy associated with type II diabetes mellitus (disorder), Viral sinusitis (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2080 | Lift: 56.9145 | Confidence: 0.2110 | Interest: 0.002457
+Metabolic syndrome X (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2080 | Lift: 56.8925 | Confidence: 0.2109 | Interest: 0.003641
+Anemia (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Diabetes | Standardized Lift: 0.2077 | Lift: 14.9740 | Confidence: 1.0000 | Interest: 0.013667
+Hypertriglyceridemia (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2073 | Lift: 56.7079 | Confidence: 0.2102 | Interest: 0.003642
+Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2068 | Lift: 56.5887 | Confidence: 0.2098 | Interest: 0.003641
+Diabetic retinopathy associated with type II diabetes mellitus (disorder), Diabetes -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2068 | Lift: 56.5887 | Confidence: 0.2098 | Interest: 0.003641
+Familial Alzheimer's disease of early onset (disorder) -> Pneumonia | Standardized Lift: 0.2066 | Lift: 34.3110 | Confidence: 0.3312 | Interest: 0.001982
+Neoplasm of prostate, Chronic kidney disease stage 1 (disorder) -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2062 | Lift: 40.2255 | Confidence: 0.9158 | Interest: 0.004670
+Drug overdose, Hypertension -> Chronic pain | Standardized Lift: 0.2052 | Lift: 14.8689 | Confidence: 0.7061 | Interest: 0.009602
+Anemia (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2045 | Lift: 55.9651 | Confidence: 0.2075 | Interest: 0.002984
+Diabetic renal disease (disorder), Acute viral pharyngitis (disorder) -> Metabolic syndrome X (disorder) | Standardized Lift: 0.2040 | Lift: 15.5356 | Confidence: 0.9984 | Interest: 0.012931
+Diabetic renal disease (disorder), Hypertension -> Hyperglycemia (disorder) | Standardized Lift: 0.2028 | Lift: 12.0565 | Confidence: 0.3669 | Interest: 0.006060
+Concussion injury of brain -> Brain damage - traumatic | Standardized Lift: 0.2024 | Lift: 37.8496 | Confidence: 0.2375 | Interest: 0.001263
+Neoplasm of prostate, Polyp of colon -> Carcinoma in situ of prostate (disorder) | Standardized Lift: 0.2023 | Lift: 40.3439 | Confidence: 0.9185 | Interest: 0.004583
+Pathological fracture due to osteoporosis (disorder), Viral sinusitis (disorder) -> Osteoporosis (disorder) | Standardized Lift: 0.2014 | Lift: 20.9323 | Confidence: 1.0000 | Interest: 0.009527
+Miscarriage in first trimester, Cardiac Arrest -> History of cardiac arrest (situation) | Standardized Lift: 0.2011 | Lift: 26.8225 | Confidence: 1.0000 | Interest: 0.007440
+Acute bronchitis (disorder), Diabetic retinopathy associated with type II diabetes mellitus (disorder) -> Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | Standardized Lift: 0.2010 | Lift: 55.0330 | Confidence: 0.2040 | Interest: 0.001393
